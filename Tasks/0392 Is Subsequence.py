@@ -19,13 +19,6 @@ if __name__ == '__main__':
     j = 0
     for i in range(len(s_list)):
         flag = False
-        # if j == len(t_list):
-<<<<<<< HEAD
-        #     print('Fatal') ### End
-=======
-        #     print('Fatal')
->>>>>>> 8c0b01a (Second)
-        # else:
         while flag == False:
             if s_list[i] == t_list[j]:
                 # print("Inner ", s_list[i], t_list[j])
