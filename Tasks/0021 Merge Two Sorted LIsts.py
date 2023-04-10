@@ -3,54 +3,79 @@ class ListNode(object):
         self.val = val
         self.next = next
 
+
 def ListToLinkedList(list_):
     if len(list_) == 0:
         return None
     else:
-        root_note = ListNode(list_[0])
-        prev_node = root_note
+        root_node = ListNode(list_[0])
+        prev_node = root_node
         for i in range(1, len(list_)):
             new_note = ListNode(list_[i])
             prev_node.next = new_note
             prev_node = new_note
-    return root_note
+    return root_node
 
-def LinkedListToList(root_note):
-    if root_note is None:
+
+def LinkedListToList(root_node):
+    if root_node is None:
         return []
     else:
         list_ = []
-        list_.append(root_note.val)
-        note = root_note.next
+        list_.append(root_node.val)
+        node = root_node.next
 
-        while not (note is None):
-            list_.append(note.val)
-            note = note.next
+        while not (node is None):
+            list_.append(node.val)
+            node = node.next
     return list_
 
 
-
 if __name__ == '__main__':
-    list1 = [1, 2, 4]
-    list1 = [1, 5, 7, 9]
+    list1 = [1, 2, 4, 4, 5]
+    list2 = [1, 1, 3, 4]
+    list1 = [2]
+    list2 = [1]
     root_node1 = ListToLinkedList(list1)
+    root_node2 = ListToLinkedList(list2)
     print(LinkedListToList(root_node1))
 
+    if root_node1 is None:
+        print(LinkedListToList(root_node2))
+        # return root_node2
+    if root_node2 is None:
+        print(LinkedListToList(root_node1))
+        # return root_node1
+    if root_node1.val <= root_node2.val:
+        root = root_node1
+        node1 = root_node1
+        node2 = root_node2
+    else:
+        root = root_node2
+        node1 = root_node2
+        node2 = root_node1
+
+    prev_node = node1
+
+    while not (node1 is None):
+        if node1.val <= node2.val:
+            prev_node = node1
+            node1 = node1.next
+        else:
+            new_node = ListNode(node2.val)
+            new_node.next = node1
+            prev_node.next = new_node
+            prev_node = new_node
+            node2 = node2.next
+            # if node2 is None:
+            #     return root_node1
+
+    if not (node2 is None):
+        prev_node.next = node2
 
 
-
-    # list2 = [1, 3, 4]
-    # list1 = None
-    # list2 = ListNode(88)
-    # list1.next = list2
-    # print(list1)
-    # if list1 is None:
-    #     print("None")
-    # print(list1.val)
-    # print(list1.next)
-    # print(list2)
-    # print(type(list1))
-    # print("Yes")
+    print(LinkedListToList(root))
+    # return root_node1
 
 
 
