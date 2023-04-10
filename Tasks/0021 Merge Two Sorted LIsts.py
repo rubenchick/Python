@@ -32,10 +32,10 @@ def LinkedListToList(root_node):
 
 
 if __name__ == '__main__':
-    list1 = [1, 2, 4, 4, 5]
+    list1 = [1, 2, 4, 4]
     list2 = [1, 1, 3, 4]
-    list1 = [2]
-    list2 = [1]
+    # list1 = [2]
+    # list2 = [1]
     root_node1 = ListToLinkedList(list1)
     root_node2 = ListToLinkedList(list2)
     print(LinkedListToList(root_node1))
