@@ -14,3 +14,4 @@ FROM (
 	GROUP BY contact_id
 ) main
 ORDER BY number_phones
+
