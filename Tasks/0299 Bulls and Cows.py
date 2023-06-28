@@ -4,15 +4,7 @@ def print_hi(name):
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    print_hi('PyCharm')
-    secret = "1807"
-    guess =  "7810"
-    # secret = "1123"
-    # guess =  "0111"
-    secret = "9845119"
-    guess =  "7811651"
-    secret = "1"
-    guess = "0"
+
     secret = list(secret)
     guess = list(guess)
     bow = 0
