@@ -1,0 +1,1301 @@
+"agent_id","date_utc","timezone_string","time_zone","user_shift_assign"
+153,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 12 Tue - Sat 09:30 PM
+153,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 12 Tue - Sat 09:30 PM
+153,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 12 Tue - Sat 09:30 PM
+255,"2023-07-18",Europe/Chisinau,-3:00:00,Sales 34 Mon-Fri 18:00-02:00
+255,"2023-07-19",Europe/Chisinau,-3:00:00,Sales 34 Mon-Fri 18:00-02:00
+255,"2023-07-20",Europe/Chisinau,-3:00:00,Sales 34 Mon-Fri 18:00-02:00
+257,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 4 Tue-Sat 3.30am
+257,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 4 Tue-Sat 3.30am
+257,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 4 Tue-Sat 3.30am
+353,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 6 Sun - Thu 05:30 AM
+353,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 6 Sun - Thu 05:30 AM
+353,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 6 Sun - Thu 05:30 AM
+362,"2023-07-18",Asia/Karachi,-5:00:00,DEL Sales 13 Sun - Thu 11:30 PM
+362,"2023-07-19",Asia/Karachi,-5:00:00,DEL Sales 13 Sun - Thu 11:30 PM
+362,"2023-07-20",Asia/Karachi,-5:00:00,DEL Sales 13 Sun - Thu 11:30 PM
+383,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 4 Tue-Sat 3.30am
+383,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 4 Tue-Sat 3.30am
+383,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 4 Tue-Sat 3.30am
+412,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 5 Tue-Sat 4.30am
+412,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 5 Tue-Sat 4.30am
+412,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 5 Tue-Sat 4.30am
+416,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 9 Sun-Thu 07.30
+416,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 9 Sun-Thu 07.30
+416,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 9 Sun-Thu 07.30
+439,"2023-07-18",America/New_York,"04:00:00",DEL Sales 8 Tue - Sat 06:30 PM
+439,"2023-07-19",America/New_York,"04:00:00",DEL Sales 8 Tue - Sat 06:30 PM
+439,"2023-07-20",America/New_York,"04:00:00",DEL Sales 8 Tue - Sat 06:30 PM
+445,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 7 Sun - Thu 04:30 PM 
+445,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 7 Sun - Thu 04:30 PM 
+445,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 7 Sun - Thu 04:30 PM 
+541,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 11 Sun - Thu 08:30 PM
+541,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 11 Sun - Thu 08:30 PM
+541,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 11 Sun - Thu 08:30 PM
+543,"2023-07-18",America/New_York,"04:00:00",DEL Sales 8 Tue - Sat 06:30 PM
+543,"2023-07-19",America/New_York,"04:00:00",DEL Sales 8 Tue - Sat 06:30 PM
+543,"2023-07-20",America/New_York,"04:00:00",DEL Sales 8 Tue - Sat 06:30 PM
+558,"2023-07-18",Asia/Karachi,-5:00:00,DEL Sales 8 Tue - Sat 06:30 PM
+558,"2023-07-19",Asia/Karachi,-5:00:00,DEL Sales 8 Tue - Sat 06:30 PM
+558,"2023-07-20",Asia/Karachi,-5:00:00,DEL Sales 8 Tue - Sat 06:30 PM
+587,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 5 Tue-Sat 4.30am
+587,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 5 Tue-Sat 4.30am
+587,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 5 Tue-Sat 4.30am
+592,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 4 Tue-Sat 3.30am
+592,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 4 Tue-Sat 3.30am
+592,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 4 Tue-Sat 3.30am
+601,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 4 Tue-Sat 3.30am
+601,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 4 Tue-Sat 3.30am
+601,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 4 Tue-Sat 3.30am
+626,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 4 Tue-Sat 3.30am
+626,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 4 Tue-Sat 3.30am
+626,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 4 Tue-Sat 3.30am
+776,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 9 Sun-Thu 07.30
+776,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 9 Sun-Thu 07.30
+776,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 9 Sun-Thu 07.30
+777,"2023-07-18",Asia/Kolkata,-5:30:00,Del Sales 10 Sun-Thu 7.30 PM
+777,"2023-07-19",Asia/Kolkata,-5:30:00,Del Sales 10 Sun-Thu 7.30 PM
+777,"2023-07-20",Asia/Kolkata,-5:30:00,Del Sales 10 Sun-Thu 7.30 PM
+826,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 1 Tue-Sat 12.30am
+826,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 1 Tue-Sat 12.30am
+826,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 1 Tue-Sat 12.30am
+877,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 7 Sun - Thu 04:30 PM 
+877,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 7 Sun - Thu 04:30 PM 
+877,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 7 Sun - Thu 04:30 PM 
+878,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 4 Tue-Sat 3.30am
+878,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 4 Tue-Sat 3.30am
+878,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 4 Tue-Sat 3.30am
+892,"2023-07-18",Asia/Kolkata,-5:30:00,Del Sales 10 Sun-Thu 7.30 PM
+892,"2023-07-19",Asia/Kolkata,-5:30:00,Del Sales 10 Sun-Thu 7.30 PM
+892,"2023-07-20",Asia/Kolkata,-5:30:00,Del Sales 10 Sun-Thu 7.30 PM
+910,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 7 Sun - Thu 04:30 PM 
+910,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 7 Sun - Thu 04:30 PM 
+910,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 7 Sun - Thu 04:30 PM 
+926,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 8 Tue - Sat 06:30 PM
+926,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 8 Tue - Sat 06:30 PM
+926,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 8 Tue - Sat 06:30 PM
+997,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 3 Tue-Sat 2.30am
+997,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 3 Tue-Sat 2.30am
+997,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 3 Tue-Sat 2.30am
+1204,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 3 Tue-Sat 2.30am
+1204,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 3 Tue-Sat 2.30am
+1204,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 3 Tue-Sat 2.30am
+1256,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 6 Sun - Thu 05:30 AM
+1256,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 6 Sun - Thu 05:30 AM
+1256,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 6 Sun - Thu 05:30 AM
+1272,"2023-07-18",Asia/Kolkata,-5:30:00,Del Sales 10 Sun-Thu 7.30 PM
+1272,"2023-07-19",Asia/Kolkata,-5:30:00,Del Sales 10 Sun-Thu 7.30 PM
+1272,"2023-07-20",Asia/Kolkata,-5:30:00,Del Sales 10 Sun-Thu 7.30 PM
+1276,"2023-07-18",America/New_York,"04:00:00",DEL Sales 8 Tue - Sat 06:30 PM
+1276,"2023-07-19",America/New_York,"04:00:00",DEL Sales 8 Tue - Sat 06:30 PM
+1276,"2023-07-20",America/New_York,"04:00:00",DEL Sales 8 Tue - Sat 06:30 PM
+1277,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 2 Sun-Thu 1.30am
+1277,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 2 Sun-Thu 1.30am
+1277,"2023-07-20",Asia/Kolkata,-5:30:00,
+1291,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 6 Sun - Thu 05:30 AM
+1291,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 6 Sun - Thu 05:30 AM
+1291,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 6 Sun - Thu 05:30 AM
+1340,"2023-07-18",Asia/Kolkata,-5:30:00,Del Sales 10 Sun-Thu 7.30 PM
+1340,"2023-07-19",Asia/Kolkata,-5:30:00,Del Sales 10 Sun-Thu 7.30 PM
+1340,"2023-07-20",Asia/Kolkata,-5:30:00,Del Sales 10 Sun-Thu 7.30 PM
+1344,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 12 Tue - Sat 09:30 PM
+1344,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 12 Tue - Sat 09:30 PM
+1344,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 12 Tue - Sat 09:30 PM
+1346,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 9 Sun-Thu 07.30
+1346,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 9 Sun-Thu 07.30
+1346,"2023-07-20",Asia/Kolkata,-5:30:00,
+1380,"2023-07-18",America/New_York,"04:00:00",DEL Sales 7 Sun - Thu 04:30 PM 
+1380,"2023-07-19",America/New_York,"04:00:00",DEL Sales 7 Sun - Thu 04:30 PM 
+1380,"2023-07-20",America/New_York,"04:00:00",DEL Sales 7 Sun - Thu 04:30 PM 
+1418,"2023-07-18",Asia/Kolkata,-5:30:00,Del Sales 10 Sun-Thu 7.30 PM
+1418,"2023-07-19",Asia/Kolkata,-5:30:00,Del Sales 10 Sun-Thu 7.30 PM
+1418,"2023-07-20",Asia/Kolkata,-5:30:00,Del Sales 10 Sun-Thu 7.30 PM
+1444,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 8 Tue - Sat 06:30 PM
+1444,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 8 Tue - Sat 06:30 PM
+1444,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 8 Tue - Sat 06:30 PM
+1445,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 8 Tue - Sat 06:30 PM
+1445,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 8 Tue - Sat 06:30 PM
+1445,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 8 Tue - Sat 06:30 PM
+1446,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 8 Tue - Sat 06:30 PM
+1446,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 8 Tue - Sat 06:30 PM
+1446,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 8 Tue - Sat 06:30 PM
+1448,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 8 Tue - Sat 06:30 PM
+1448,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 8 Tue - Sat 06:30 PM
+1448,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 8 Tue - Sat 06:30 PM
+1451,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 8 Tue - Sat 06:30 PM
+1451,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 8 Tue - Sat 06:30 PM
+1451,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 8 Tue - Sat 06:30 PM
+1452,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 8 Tue - Sat 06:30 PM
+1452,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 8 Tue - Sat 06:30 PM
+1452,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 8 Tue - Sat 06:30 PM
+1471,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 8 Tue - Sat 06:30 PM
+1471,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 8 Tue - Sat 06:30 PM
+1471,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 8 Tue - Sat 06:30 PM
+1472,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 8 Tue - Sat 06:30 PM
+1472,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 8 Tue - Sat 06:30 PM
+1472,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 8 Tue - Sat 06:30 PM
+1476,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 8 Tue - Sat 06:30 PM
+1476,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 8 Tue - Sat 06:30 PM
+1476,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 8 Tue - Sat 06:30 PM
+1508,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 1 Tue-Sat 12.30am
+1508,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 1 Tue-Sat 12.30am
+1508,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 1 Tue-Sat 12.30am
+1510,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 1 Tue-Sat 12.30am
+1510,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 1 Tue-Sat 12.30am
+1510,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 1 Tue-Sat 12.30am
+1519,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 12 Tue - Sat 09:30 PM
+1519,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 12 Tue - Sat 09:30 PM
+1519,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 12 Tue - Sat 09:30 PM
+1526,"2023-07-18",America/New_York,"04:00:00",DEL Sales 7 Sun - Thu 04:30 PM 
+1526,"2023-07-19",America/New_York,"04:00:00",DEL Sales 7 Sun - Thu 04:30 PM 
+1526,"2023-07-20",America/New_York,"04:00:00",DEL Sales 7 Sun - Thu 04:30 PM 
+1527,"2023-07-18",America/New_York,"04:00:00",DEL Sales 7 Sun - Thu 04:30 PM 
+1527,"2023-07-19",America/New_York,"04:00:00",DEL Sales 7 Sun - Thu 04:30 PM 
+1527,"2023-07-20",America/New_York,"04:00:00",DEL Sales 7 Sun - Thu 04:30 PM 
+1545,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 4 Tue-Sat 3.30am
+1545,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 4 Tue-Sat 3.30am
+1545,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 4 Tue-Sat 3.30am
+1554,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 8 Tue - Sat 06:30 PM
+1554,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 8 Tue - Sat 06:30 PM
+1554,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 8 Tue - Sat 06:30 PM
+1556,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 9 Sun-Thu 07.30
+1556,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 9 Sun-Thu 07.30
+1556,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 9 Sun-Thu 07.30
+1566,"2023-07-18",America/New_York,"04:00:00",DEL Sales 7 Sun - Thu 04:30 PM 
+1566,"2023-07-19",America/New_York,"04:00:00",DEL Sales 7 Sun - Thu 04:30 PM 
+1566,"2023-07-20",America/New_York,"04:00:00",DEL Sales 7 Sun - Thu 04:30 PM 
+1568,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 9 Sun-Thu 07.30
+1568,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 9 Sun-Thu 07.30
+1568,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 9 Sun-Thu 07.30
+1569,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 1 Tue-Sat 12.30am
+1569,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 1 Tue-Sat 12.30am
+1569,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 1 Tue-Sat 12.30am
+1574,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 1 Tue-Sat 12.30am
+1574,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 1 Tue-Sat 12.30am
+1574,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 1 Tue-Sat 12.30am
+1580,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 1 Tue-Sat 12.30am
+1580,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 1 Tue-Sat 12.30am
+1580,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 1 Tue-Sat 12.30am
+1596,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 9 Sun-Thu 07.30
+1596,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 9 Sun-Thu 07.30
+1596,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 9 Sun-Thu 07.30
+1597,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 9 Sun-Thu 07.30
+1597,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 9 Sun-Thu 07.30
+1597,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 9 Sun-Thu 07.30
+1612,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 9 Sun-Thu 07.30
+1612,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 9 Sun-Thu 07.30
+1612,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 9 Sun-Thu 07.30
+1659,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 13 Sun - Thu 11:30 PM
+1659,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 13 Sun - Thu 11:30 PM
+1659,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 13 Sun - Thu 11:30 PM
+1660,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 6 Sun - Thu 05:30 AM
+1660,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 6 Sun - Thu 05:30 AM
+1660,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 6 Sun - Thu 05:30 AM
+1663,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 13 Sun - Thu 11:30 PM
+1663,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 13 Sun - Thu 11:30 PM
+1663,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 13 Sun - Thu 11:30 PM
+1666,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 6 Sun - Thu 05:30 AM
+1666,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 6 Sun - Thu 05:30 AM
+1666,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 6 Sun - Thu 05:30 AM
+1667,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 6 Sun - Thu 05:30 AM
+1667,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 6 Sun - Thu 05:30 AM
+1667,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 6 Sun - Thu 05:30 AM
+1667,"2023-07-21",Asia/Kolkata,-5:30:00,
+1684,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 2 Sun-Thu 1.30am
+1684,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 2 Sun-Thu 1.30am
+1684,"2023-07-20",Asia/Kolkata,-5:30:00,
+1685,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 13 Sun - Thu 11:30 PM
+1685,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 13 Sun - Thu 11:30 PM
+1685,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 13 Sun - Thu 11:30 PM
+1686,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 6 Sun - Thu 05:30 AM
+1686,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 6 Sun - Thu 05:30 AM
+1686,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 6 Sun - Thu 05:30 AM
+1687,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 13 Sun - Thu 11:30 PM
+1687,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 13 Sun - Thu 11:30 PM
+1687,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 13 Sun - Thu 11:30 PM
+1701,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 13 Sun - Thu 11:30 PM
+1701,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 13 Sun - Thu 11:30 PM
+1701,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 13 Sun - Thu 11:30 PM
+1702,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 6 Sun - Thu 05:30 AM
+1702,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 6 Sun - Thu 05:30 AM
+1702,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 6 Sun - Thu 05:30 AM
+1715,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 6 Sun - Thu 05:30 AM
+1715,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 6 Sun - Thu 05:30 AM
+1715,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 6 Sun - Thu 05:30 AM
+1717,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 13 Sun - Thu 11:30 PM
+1717,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 13 Sun - Thu 11:30 PM
+1717,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 13 Sun - Thu 11:30 PM
+1719,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 13 Sun - Thu 11:30 PM
+1719,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 13 Sun - Thu 11:30 PM
+1719,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 13 Sun - Thu 11:30 PM
+1721,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 9 Sun-Thu 07.30
+1721,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 9 Sun-Thu 07.30
+1721,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 9 Sun-Thu 07.30
+1757,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 9 Sun-Thu 07.30
+1757,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 9 Sun-Thu 07.30
+1757,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 9 Sun-Thu 07.30
+1763,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 1 Tue-Sat 12.30am
+1763,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 1 Tue-Sat 12.30am
+1763,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 1 Tue-Sat 12.30am
+1774,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 8 Tue - Sat 06:30 PM
+1774,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 8 Tue - Sat 06:30 PM
+1774,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 8 Tue - Sat 06:30 PM
+1815,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 6 Sun - Thu 05:30 AM
+1815,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 6 Sun - Thu 05:30 AM
+1815,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 6 Sun - Thu 05:30 AM
+1816,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 3 Tue-Sat 2.30am
+1816,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 3 Tue-Sat 2.30am
+1816,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 3 Tue-Sat 2.30am
+1820,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 6 Sun - Thu 05:30 AM
+1820,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 6 Sun - Thu 05:30 AM
+1820,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 6 Sun - Thu 05:30 AM
+1870,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 12 Tue - Sat 09:30 PM
+1870,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 12 Tue - Sat 09:30 PM
+1870,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 12 Tue - Sat 09:30 PM
+1883,"2023-07-18",Asia/Kolkata,-5:30:00,NewRiv_2030-0530 Mon-Fri
+1883,"2023-07-19",Asia/Kolkata,-5:30:00,NewRiv_2030-0530 Mon-Fri
+1883,"2023-07-20",Asia/Kolkata,-5:30:00,NewRiv_2030-0530 Mon-Fri
+1901,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 11 Sun - Thu 08:30 PM
+1901,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 11 Sun - Thu 08:30 PM
+1901,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 11 Sun - Thu 08:30 PM
+1902,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 11 Sun - Thu 08:30 PM
+1902,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 11 Sun - Thu 08:30 PM
+1902,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 11 Sun - Thu 08:30 PM
+1904,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 11 Sun - Thu 08:30 PM
+1904,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 11 Sun - Thu 08:30 PM
+1904,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 11 Sun - Thu 08:30 PM
+1919,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 11 Sun - Thu 08:30 PM
+1919,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 11 Sun - Thu 08:30 PM
+1919,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 11 Sun - Thu 08:30 PM
+1921,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 11 Sun - Thu 08:30 PM
+1921,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 11 Sun - Thu 08:30 PM
+1921,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 11 Sun - Thu 08:30 PM
+1924,"2023-07-18",Asia/Kolkata,-5:30:00,NewRiv_0030-0930
+1924,"2023-07-19",Asia/Kolkata,-5:30:00,NewRiv_0030-0930
+1924,"2023-07-20",Asia/Kolkata,-5:30:00,NewRiv_0030-0930
+1926,"2023-07-18",Europe/Chisinau,-3:00:00,NewRiv_0030-0930
+1926,"2023-07-19",Europe/Chisinau,-3:00:00,NewRiv_0030-0930
+1926,"2023-07-20",Europe/Chisinau,-3:00:00,NewRiv_0030-0930
+1969,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 9 Sun-Thu 07.30
+1969,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 9 Sun-Thu 07.30
+1969,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 9 Sun-Thu 07.30
+1970,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 13 Sun - Thu 11:30 PM
+1970,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 13 Sun - Thu 11:30 PM
+1970,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 13 Sun - Thu 11:30 PM
+2003,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 6 Sun - Thu 05:30 AM
+2003,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 6 Sun - Thu 05:30 AM
+2003,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 6 Sun - Thu 05:30 AM
+2004,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 12 Tue - Sat 09:30 PM
+2004,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 12 Tue - Sat 09:30 PM
+2004,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 12 Tue - Sat 09:30 PM
+2007,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 1 Tue-Sat 12.30am
+2007,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 1 Tue-Sat 12.30am
+2007,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 1 Tue-Sat 12.30am
+2017,"2023-07-18",Asia/Kolkata,-5:30:00,NewRiv_2030-0530 Mon-Fri
+2017,"2023-07-19",Asia/Kolkata,-5:30:00,NewRiv_2030-0530 Mon-Fri
+2017,"2023-07-20",Asia/Kolkata,-5:30:00,NewRiv_2030-0530 Mon-Fri
+2043,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 9 Sun-Thu 07.30
+2043,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 9 Sun-Thu 07.30
+2043,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 9 Sun-Thu 07.30
+2044,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 11 Sun - Thu 08:30 PM
+2044,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 11 Sun - Thu 08:30 PM
+2044,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 11 Sun - Thu 08:30 PM
+2047,"2023-07-18",Asia/Kolkata,-5:30:00,RivAgent_0230-1130IST Tue-Sat
+2047,"2023-07-19",Asia/Kolkata,-5:30:00,RivAgent_0230-1130IST Tue-Sat
+2047,"2023-07-20",Asia/Kolkata,-5:30:00,RivAgent_0230-1130IST Tue-Sat
+2052,"2023-07-18",Asia/Kolkata,-5:30:00,NewRiv_2030-0530 Mon-Fri
+2052,"2023-07-19",Asia/Kolkata,-5:30:00,NewRiv_2030-0530 Mon-Fri
+2052,"2023-07-20",Asia/Kolkata,-5:30:00,NewRiv_2030-0530 Mon-Fri
+2076,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 11 Sun - Thu 08:30 PM
+2076,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 11 Sun - Thu 08:30 PM
+2076,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 11 Sun - Thu 08:30 PM
+2078,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 11 Sun - Thu 08:30 PM
+2078,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 11 Sun - Thu 08:30 PM
+2078,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 11 Sun - Thu 08:30 PM
+2087,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 13 Sun - Thu 11:30 PM
+2087,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 13 Sun - Thu 11:30 PM
+2087,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 13 Sun - Thu 11:30 PM
+2090,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 12 Tue - Sat 09:30 PM
+2090,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 12 Tue - Sat 09:30 PM
+2090,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 12 Tue - Sat 09:30 PM
+2095,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 12 Tue - Sat 09:30 PM
+2095,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 12 Tue - Sat 09:30 PM
+2095,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 12 Tue - Sat 09:30 PM
+2096,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 13 Sun - Thu 11:30 PM
+2096,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 13 Sun - Thu 11:30 PM
+2096,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 13 Sun - Thu 11:30 PM
+2105,"2023-07-18",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Mon-Fri
+2105,"2023-07-19",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Mon-Fri
+2105,"2023-07-20",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Mon-Fri
+2106,"2023-07-18",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Mon-Fri
+2106,"2023-07-19",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Mon-Fri
+2106,"2023-07-20",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Mon-Fri
+2107,"2023-07-19",Asia/Kolkata,-5:30:00,NewRiv_2030-0530 Mon-Fri
+2107,"2023-07-20",Asia/Kolkata,-5:30:00,NewRiv_2030-0530 Mon-Fri
+2109,"2023-07-18",Asia/Kolkata,-5:30:00,NewRiv_2030-0530 Mon-Fri
+2109,"2023-07-19",Asia/Kolkata,-5:30:00,NewRiv_2030-0530 Mon-Fri
+2109,"2023-07-20",Asia/Kolkata,-5:30:00,NewRiv_2030-0530 Mon-Fri
+2112,"2023-07-18",Asia/Kolkata,-5:30:00,NewRiv_0030-0930
+2112,"2023-07-19",Asia/Kolkata,-5:30:00,NewRiv_0030-0930
+2112,"2023-07-20",Asia/Kolkata,-5:30:00,NewRiv_0030-0930
+2114,"2023-07-18",Asia/Kolkata,-5:30:00,NewRiv_0030-0930
+2114,"2023-07-19",Asia/Kolkata,-5:30:00,NewRiv_0030-0930
+2114,"2023-07-20",Asia/Kolkata,-5:30:00,NewRiv_0030-0930
+2115,"2023-07-18",Asia/Kolkata,-5:30:00,NewRiv_2030-0530 Mon-Fri
+2115,"2023-07-19",Asia/Kolkata,-5:30:00,NewRiv_2030-0530 Mon-Fri
+2115,"2023-07-20",Asia/Kolkata,-5:30:00,NewRiv_2030-0530 Mon-Fri
+2117,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 2 Sun-Thu 1.30am
+2117,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 2 Sun-Thu 1.30am
+2121,"2023-07-18",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Mon-Fri
+2121,"2023-07-19",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Mon-Fri
+2121,"2023-07-20",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Mon-Fri
+2130,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 1 Tue-Sat 12.30am
+2130,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 1 Tue-Sat 12.30am
+2130,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 1 Tue-Sat 12.30am
+2133,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 1 Tue-Sat 12.30am
+2133,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 1 Tue-Sat 12.30am
+2133,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 1 Tue-Sat 12.30am
+2137,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 1 Tue-Sat 12.30am
+2137,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 1 Tue-Sat 12.30am
+2137,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 1 Tue-Sat 12.30am
+2139,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 9 Sun-Thu 07.30
+2139,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 9 Sun-Thu 07.30
+2139,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 9 Sun-Thu 07.30
+2140,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 12 Tue - Sat 09:30 PM
+2140,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 12 Tue - Sat 09:30 PM
+2140,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 12 Tue - Sat 09:30 PM
+2152,"2023-07-18",Asia/Kolkata,-5:30:00,NewRiv_0030-0930
+2152,"2023-07-19",Asia/Kolkata,-5:30:00,NewRiv_0030-0930
+2152,"2023-07-20",Asia/Kolkata,-5:30:00,NewRiv_0030-0930
+2153,"2023-07-18",Asia/Kolkata,-5:30:00,NewRiv_0030-0930
+2153,"2023-07-19",Asia/Kolkata,-5:30:00,NewRiv_0030-0930
+2153,"2023-07-20",Asia/Kolkata,-5:30:00,NewRiv_0030-0930
+2163,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 3 Tue-Sat 2.30am
+2163,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 3 Tue-Sat 2.30am
+2163,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 3 Tue-Sat 2.30am
+2170,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 5 Tue-Sat 4.30am
+2170,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 5 Tue-Sat 4.30am
+2170,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 5 Tue-Sat 4.30am
+2187,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 3 Tue-Sat 2.30am
+2187,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 3 Tue-Sat 2.30am
+2187,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 3 Tue-Sat 2.30am
+2190,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 3 Tue-Sat 2.30am
+2190,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 3 Tue-Sat 2.30am
+2190,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 3 Tue-Sat 2.30am
+2192,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 3 Tue-Sat 2.30am
+2192,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 3 Tue-Sat 2.30am
+2192,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 3 Tue-Sat 2.30am
+2205,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 3 Tue-Sat 2.30am
+2205,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 3 Tue-Sat 2.30am
+2205,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 3 Tue-Sat 2.30am
+2206,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 3 Tue-Sat 2.30am
+2206,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 3 Tue-Sat 2.30am
+2206,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 3 Tue-Sat 2.30am
+2217,"2023-07-18",Asia/Kolkata,-5:30:00,Del Sales 10 Sun-Thu 7.30 PM
+2217,"2023-07-19",Asia/Kolkata,-5:30:00,Del Sales 10 Sun-Thu 7.30 PM
+2217,"2023-07-20",Asia/Kolkata,-5:30:00,Del Sales 10 Sun-Thu 7.30 PM
+2228,"2023-07-18",Asia/Kolkata,-5:30:00,Del Sales 10 Sun-Thu 7.30 PM
+2228,"2023-07-19",Asia/Kolkata,-5:30:00,Del Sales 10 Sun-Thu 7.30 PM
+2228,"2023-07-20",Asia/Kolkata,-5:30:00,Del Sales 10 Sun-Thu 7.30 PM
+2229,"2023-07-18",Asia/Kolkata,-5:30:00,Del Sales 10 Sun-Thu 7.30 PM
+2229,"2023-07-19",Asia/Kolkata,-5:30:00,Del Sales 10 Sun-Thu 7.30 PM
+2229,"2023-07-20",Asia/Kolkata,-5:30:00,Del Sales 10 Sun-Thu 7.30 PM
+2237,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 3 Tue-Sat 2.30am
+2237,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 3 Tue-Sat 2.30am
+2237,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 3 Tue-Sat 2.30am
+2238,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 3 Tue-Sat 2.30am
+2238,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 3 Tue-Sat 2.30am
+2238,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 3 Tue-Sat 2.30am
+2240,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 8 Tue - Sat 06:30 PM
+2240,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 8 Tue - Sat 06:30 PM
+2240,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 8 Tue - Sat 06:30 PM
+2249,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 5 Tue-Sat 4.30am
+2249,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 5 Tue-Sat 4.30am
+2249,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 5 Tue-Sat 4.30am
+2251,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 5 Tue-Sat 4.30am
+2251,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 5 Tue-Sat 4.30am
+2251,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 5 Tue-Sat 4.30am
+2252,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 5 Tue-Sat 4.30am
+2252,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 5 Tue-Sat 4.30am
+2252,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 5 Tue-Sat 4.30am
+2254,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 5 Tue-Sat 4.30am
+2254,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 5 Tue-Sat 4.30am
+2254,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 5 Tue-Sat 4.30am
+2256,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 5 Tue-Sat 4.30am
+2256,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 5 Tue-Sat 4.30am
+2256,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 5 Tue-Sat 4.30am
+2260,"2023-07-18",Asia/Kolkata,-5:30:00,Del Sales 10 Sun-Thu 7.30 PM
+2260,"2023-07-19",Asia/Kolkata,-5:30:00,Del Sales 10 Sun-Thu 7.30 PM
+2260,"2023-07-20",Asia/Kolkata,-5:30:00,Del Sales 10 Sun-Thu 7.30 PM
+2310,"2023-07-18",America/Chicago,"05:00:00",MNL Sales 9: Sun-Thu | 21:00 - 05:00
+2310,"2023-07-19",America/Chicago,"05:00:00",MNL Sales 9: Sun-Thu | 21:00 - 05:00
+2310,"2023-07-20",America/Chicago,"05:00:00",MNL Sales 9: Sun-Thu | 21:00 - 05:00
+2311,"2023-07-18",America/New_York,"04:00:00",MNL Sales 4: Tue-Sat | 06:00 - 14:00
+2311,"2023-07-19",America/New_York,"04:00:00",MNL Sales 4: Tue-Sat | 06:00 - 14:00
+2311,"2023-07-20",America/New_York,"04:00:00",MNL Sales 4: Tue-Sat | 06:00 - 14:00
+2312,"2023-07-18",America/Chicago,"05:00:00",MNL Trainees 1: Mon - Fri | 10AM to 6PM
+2312,"2023-07-19",America/Chicago,"05:00:00",MNL Trainees 1: Mon - Fri | 10AM to 6PM
+2312,"2023-07-20",America/Chicago,"05:00:00",MNL Trainees 1: Mon - Fri | 10AM to 6PM
+2312,"2023-07-21",America/Chicago,"05:00:00",MNL Trainees 1: Mon - Fri | 10AM to 6PM
+2313,"2023-07-18",Asia/Manila,-8:00:00,MNL Sales 7: Sun-Thu | 06:00 - 14:00
+2313,"2023-07-19",Asia/Manila,-8:00:00,MNL Sales 7: Sun-Thu | 06:00 - 14:00
+2314,"2023-07-18",Asia/Manila,-8:00:00,MNL Sales 14: Tue-Sat | 22:00 - 06:00
+2314,"2023-07-19",Asia/Manila,-8:00:00,MNL Sales 14: Tue-Sat | 22:00 - 06:00
+2314,"2023-07-20",Asia/Manila,-8:00:00,MNL Sales 14: Tue-Sat | 22:00 - 06:00
+2315,"2023-07-18",Asia/Manila,-8:00:00,MNL Sales 9: Sun-Thu | 21:00 - 05:00
+2315,"2023-07-19",Asia/Manila,-8:00:00,MNL Sales 9: Sun-Thu | 21:00 - 05:00
+2315,"2023-07-20",Asia/Manila,-8:00:00,MNL Sales 9: Sun-Thu | 21:00 - 05:00
+2316,"2023-07-18",Asia/Manila,-8:00:00,MNL Sales 8: Tue-Sat | 21:00 - 05:00
+2316,"2023-07-19",Asia/Manila,-8:00:00,MNL Sales 8: Tue-Sat | 21:00 - 05:00
+2316,"2023-07-20",Asia/Manila,-8:00:00,MNL Sales 8: Tue-Sat | 21:00 - 05:00
+2318,"2023-07-18",Asia/Manila,-8:00:00,MNL Sales 4: Tue-Sat | 06:00 - 14:00
+2318,"2023-07-19",Asia/Manila,-8:00:00,MNL Sales 4: Tue-Sat | 06:00 - 14:00
+2318,"2023-07-20",Asia/Manila,-8:00:00,MNL Sales 4: Tue-Sat | 06:00 - 14:00
+2319,"2023-07-18",Asia/Manila,-8:00:00,MNL Sales 4: Tue-Sat | 06:00 - 14:00
+2319,"2023-07-19",Asia/Manila,-8:00:00,MNL Sales 4: Tue-Sat | 06:00 - 14:00
+2319,"2023-07-20",Asia/Manila,-8:00:00,MNL Sales 4: Tue-Sat | 06:00 - 14:00
+2327,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 5 Tue-Sat 4.30am
+2327,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 5 Tue-Sat 4.30am
+2327,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 5 Tue-Sat 4.30am
+2328,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 5 Tue-Sat 4.30am
+2328,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 5 Tue-Sat 4.30am
+2328,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 5 Tue-Sat 4.30am
+2331,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 5 Tue-Sat 4.30am
+2331,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 5 Tue-Sat 4.30am
+2331,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 5 Tue-Sat 4.30am
+2333,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 5 Tue-Sat 4.30am
+2333,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 5 Tue-Sat 4.30am
+2333,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 5 Tue-Sat 4.30am
+2336,"2023-07-18",Asia/Kolkata,-5:30:00,Del Sales 10 Sun-Thu 7.30 PM
+2336,"2023-07-19",Asia/Kolkata,-5:30:00,Del Sales 10 Sun-Thu 7.30 PM
+2336,"2023-07-20",Asia/Kolkata,-5:30:00,Del Sales 10 Sun-Thu 7.30 PM
+2337,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 5 Tue-Sat 4.30am
+2337,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 5 Tue-Sat 4.30am
+2337,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 5 Tue-Sat 4.30am
+2338,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 5 Tue-Sat 4.30am
+2338,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 5 Tue-Sat 4.30am
+2338,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 5 Tue-Sat 4.30am
+2339,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 5 Tue-Sat 4.30am
+2339,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 5 Tue-Sat 4.30am
+2339,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 5 Tue-Sat 4.30am
+2341,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 4 Tue-Sat 3.30am
+2341,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 4 Tue-Sat 3.30am
+2341,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 4 Tue-Sat 3.30am
+2348,"2023-07-18",Asia/Manila,-8:00:00,MNL Sales 7: Sun-Thu | 06:00 - 14:00
+2348,"2023-07-19",Asia/Manila,-8:00:00,MNL Sales 7: Sun-Thu | 06:00 - 14:00
+2349,"2023-07-18",America/Chicago,"05:00:00",MNL Sales 9: Sun-Thu | 21:00 - 05:00
+2349,"2023-07-19",America/Chicago,"05:00:00",MNL Sales 9: Sun-Thu | 21:00 - 05:00
+2349,"2023-07-20",America/Chicago,"05:00:00",MNL Sales 9: Sun-Thu | 21:00 - 05:00
+2350,"2023-07-18",Asia/Manila,-8:00:00,MNL Sales 7: Sun-Thu | 06:00 - 14:00
+2350,"2023-07-19",Asia/Manila,-8:00:00,MNL Sales 7: Sun-Thu | 06:00 - 14:00
+2351,"2023-07-18",Asia/Manila,-8:00:00, MNL Sales 15: Tue-Sat | 20:00 - 04:00
+2351,"2023-07-19",Asia/Manila,-8:00:00, MNL Sales 15: Tue-Sat | 20:00 - 04:00
+2351,"2023-07-20",Asia/Manila,-8:00:00, MNL Sales 15: Tue-Sat | 20:00 - 04:00
+2352,"2023-07-18",Asia/Manila,-8:00:00,MNL Sales 7: Sun-Thu | 06:00 - 14:00
+2352,"2023-07-19",Asia/Manila,-8:00:00,MNL Sales 7: Sun-Thu | 06:00 - 14:00
+2355,"2023-07-18",Asia/Manila,-8:00:00,MNL Sales 7: Sun-Thu | 06:00 - 14:00
+2355,"2023-07-19",Asia/Manila,-8:00:00,MNL Sales 7: Sun-Thu | 06:00 - 14:00
+2356,"2023-07-18",Asia/Manila,-8:00:00,MNL Sales 9: Sun-Thu | 21:00 - 05:00
+2356,"2023-07-19",Asia/Manila,-8:00:00,MNL Sales 9: Sun-Thu | 21:00 - 05:00
+2356,"2023-07-20",Asia/Manila,-8:00:00,MNL Sales 9: Sun-Thu | 21:00 - 05:00
+2360,"2023-07-18",Asia/Kolkata,-5:30:00,Del Sales 10 Sun-Thu 7.30 PM
+2360,"2023-07-19",Asia/Kolkata,-5:30:00,Del Sales 10 Sun-Thu 7.30 PM
+2360,"2023-07-20",Asia/Kolkata,-5:30:00,Del Sales 10 Sun-Thu 7.30 PM
+2362,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 2 Sun-Thu 1.30am
+2362,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 2 Sun-Thu 1.30am
+2363,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 3 Tue-Sat 2.30am
+2363,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 3 Tue-Sat 2.30am
+2363,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 3 Tue-Sat 2.30am
+2365,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 12 Tue - Sat 09:30 PM
+2365,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 12 Tue - Sat 09:30 PM
+2365,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 12 Tue - Sat 09:30 PM
+2368,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 7 Sun - Thu 04:30 PM 
+2368,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 7 Sun - Thu 04:30 PM 
+2368,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 7 Sun - Thu 04:30 PM 
+2369,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 8 Tue - Sat 06:30 PM
+2369,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 8 Tue - Sat 06:30 PM
+2369,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 8 Tue - Sat 06:30 PM
+2370,"2023-07-18",Asia/Kolkata,-5:30:00,Del Sales 10 Sun-Thu 7.30 PM
+2370,"2023-07-19",Asia/Kolkata,-5:30:00,Del Sales 10 Sun-Thu 7.30 PM
+2370,"2023-07-20",Asia/Kolkata,-5:30:00,Del Sales 10 Sun-Thu 7.30 PM
+2372,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 3 Tue-Sat 2.30am
+2372,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 3 Tue-Sat 2.30am
+2372,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 3 Tue-Sat 2.30am
+2383,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 3 Tue-Sat 2.30am
+2383,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 3 Tue-Sat 2.30am
+2383,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 3 Tue-Sat 2.30am
+2404,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 1 Tue-Sat 12.30am
+2404,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 1 Tue-Sat 12.30am
+2404,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 1 Tue-Sat 12.30am
+2407,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 1 Tue-Sat 12.30am
+2407,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 1 Tue-Sat 12.30am
+2407,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 1 Tue-Sat 12.30am
+2412,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 11 Sun - Thu 08:30 PM
+2412,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 11 Sun - Thu 08:30 PM
+2412,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 11 Sun - Thu 08:30 PM
+2419,"2023-07-18",Asia/Manila,-8:00:00,MNL Sales 18: Tue-Sat | 18:00 - 02:00
+2419,"2023-07-19",Asia/Manila,-8:00:00,MNL Sales 18: Tue-Sat | 18:00 - 02:00
+2419,"2023-07-20",Asia/Manila,-8:00:00,MNL Sales 18: Tue-Sat | 18:00 - 02:00
+2424,"2023-07-18",Asia/Manila,-8:00:00,MNL Sales 4: Tue-Sat | 06:00 - 14:00
+2424,"2023-07-19",Asia/Manila,-8:00:00,MNL Sales 4: Tue-Sat | 06:00 - 14:00
+2424,"2023-07-20",Asia/Manila,-8:00:00,MNL Sales 4: Tue-Sat | 06:00 - 14:00
+2431,"2023-07-19",Asia/Manila,-8:00:00,MNL Sales 8: Tue-Sat | 21:00 - 05:00
+2431,"2023-07-20",Asia/Manila,-8:00:00,MNL Sales 8: Tue-Sat | 21:00 - 05:00
+2441,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 12 Tue - Sat 09:30 PM
+2441,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 12 Tue - Sat 09:30 PM
+2441,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 12 Tue - Sat 09:30 PM
+2443,"2023-07-18",Asia/Kolkata,-5:30:00,Del Sales 10 Sun-Thu 7.30 PM
+2443,"2023-07-19",Asia/Kolkata,-5:30:00,Del Sales 10 Sun-Thu 7.30 PM
+2443,"2023-07-20",Asia/Kolkata,-5:30:00,Del Sales 10 Sun-Thu 7.30 PM
+2444,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 9 Sun-Thu 07.30
+2444,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 9 Sun-Thu 07.30
+2444,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 9 Sun-Thu 07.30
+2458,"2023-07-18",Asia/Manila,-8:00:00,MNL Sales 7: Sun-Thu | 06:00 - 14:00
+2458,"2023-07-19",Asia/Manila,-8:00:00,MNL Sales 7: Sun-Thu | 06:00 - 14:00
+2459,"2023-07-18",America/Chicago,"05:00:00",MNL Sales 7: Sun-Thu | 06:00 - 14:00
+2459,"2023-07-19",America/Chicago,"05:00:00",MNL Sales 7: Sun-Thu | 06:00 - 14:00
+2462,"2023-07-18",America/Chicago,"05:00:00",MNL Sales 7: Sun-Thu | 06:00 - 14:00
+2462,"2023-07-19",America/Chicago,"05:00:00",MNL Sales 7: Sun-Thu | 06:00 - 14:00
+2463,"2023-07-18",Asia/Manila,-8:00:00,MNL Sales 7: Sun-Thu | 06:00 - 14:00
+2463,"2023-07-19",Asia/Manila,-8:00:00,MNL Sales 7: Sun-Thu | 06:00 - 14:00
+2465,"2023-07-18",Asia/Manila,-8:00:00,MNL Sales 7: Sun-Thu | 06:00 - 14:00
+2465,"2023-07-19",Asia/Manila,-8:00:00,MNL Sales 7: Sun-Thu | 06:00 - 14:00
+2466,"2023-07-18",Asia/Manila,-8:00:00,MNL Sales 7: Sun-Thu | 06:00 - 14:00
+2466,"2023-07-19",Asia/Manila,-8:00:00,MNL Sales 7: Sun-Thu | 06:00 - 14:00
+2467,"2023-07-18",Asia/Manila,-8:00:00,MNL Sales 9: Sun-Thu | 21:00 - 05:00
+2467,"2023-07-19",Asia/Manila,-8:00:00,MNL Sales 9: Sun-Thu | 21:00 - 05:00
+2467,"2023-07-20",Asia/Manila,-8:00:00,MNL Sales 9: Sun-Thu | 21:00 - 05:00
+2468,"2023-07-18",Asia/Manila,-8:00:00,MNL Sales 7: Sun-Thu | 06:00 - 14:00
+2468,"2023-07-19",Asia/Manila,-8:00:00,MNL Sales 7: Sun-Thu | 06:00 - 14:00
+2508,"2023-07-18",Asia/Manila,-8:00:00,MNL Sales 18: Tue-Sat | 18:00 - 02:00
+2508,"2023-07-19",Asia/Manila,-8:00:00,MNL Sales 18: Tue-Sat | 18:00 - 02:00
+2513,"2023-07-18",Asia/Manila,-8:00:00,MNL Sales 8: Tue-Sat | 21:00 - 05:00
+2513,"2023-07-19",Asia/Manila,-8:00:00,MNL Sales 8: Tue-Sat | 21:00 - 05:00
+2513,"2023-07-20",Asia/Manila,-8:00:00,MNL Sales 8: Tue-Sat | 21:00 - 05:00
+2514,"2023-07-18",America/Chicago,"05:00:00",MNL Sales 9: Sun-Thu | 21:00 - 05:00
+2514,"2023-07-19",America/Chicago,"05:00:00",MNL Sales 9: Sun-Thu | 21:00 - 05:00
+2514,"2023-07-20",America/Chicago,"05:00:00",MNL Sales 9: Sun-Thu | 21:00 - 05:00
+2515,"2023-07-18",Asia/Manila,-8:00:00,MNL Sales 13: Sun-Thu | 22:00 - 06:00
+2515,"2023-07-19",Asia/Manila,-8:00:00,MNL Sales 13: Sun-Thu | 22:00 - 06:00
+2515,"2023-07-20",Asia/Manila,-8:00:00,MNL Sales 13: Sun-Thu | 22:00 - 06:00
+2517,"2023-07-18",Asia/Manila,-8:00:00,MNL Sales 4: Tue-Sat | 06:00 - 14:00
+2517,"2023-07-19",Asia/Manila,-8:00:00,MNL Sales 4: Tue-Sat | 06:00 - 14:00
+2517,"2023-07-20",Asia/Manila,-8:00:00,MNL Sales 4: Tue-Sat | 06:00 - 14:00
+2520,"2023-07-18",Asia/Manila,-8:00:00,MNL Sales 12: Sun-Thu | 20:00 - 04:00
+2520,"2023-07-19",Asia/Manila,-8:00:00,MNL Sales 12: Sun-Thu | 20:00 - 04:00
+2520,"2023-07-20",Asia/Manila,-8:00:00,MNL Sales 12: Sun-Thu | 20:00 - 04:00
+2539,"2023-07-18",America/New_York,"04:00:00",MNL Sales 4: Tue-Sat | 06:00 - 14:00
+2539,"2023-07-19",America/New_York,"04:00:00",MNL Sales 4: Tue-Sat | 06:00 - 14:00
+2539,"2023-07-20",America/New_York,"04:00:00",MNL Sales 4: Tue-Sat | 06:00 - 14:00
+2540,"2023-07-18",Asia/Manila,-8:00:00,MNL Sales 14: Tue-Sat | 22:00 - 06:00
+2540,"2023-07-19",Asia/Manila,-8:00:00,MNL Sales 14: Tue-Sat | 22:00 - 06:00
+2540,"2023-07-20",Asia/Manila,-8:00:00,MNL Sales 14: Tue-Sat | 22:00 - 06:00
+2541,"2023-07-18",Asia/Manila,-8:00:00,MNL Sales 9: Sun-Thu | 21:00 - 05:00
+2541,"2023-07-19",Asia/Manila,-8:00:00,MNL Sales 9: Sun-Thu | 21:00 - 05:00
+2541,"2023-07-20",Asia/Manila,-8:00:00,MNL Sales 9: Sun-Thu | 21:00 - 05:00
+2546,"2023-07-18",America/Chicago,"05:00:00",MNL Sales 14: Tue-Sat | 22:00 - 06:00
+2546,"2023-07-19",America/Chicago,"05:00:00",MNL Sales 14: Tue-Sat | 22:00 - 06:00
+2546,"2023-07-20",America/Chicago,"05:00:00",MNL Sales 14: Tue-Sat | 22:00 - 06:00
+2548,"2023-07-18",America/Chicago,"05:00:00",MNL Sales 14: Tue-Sat | 22:00 - 06:00
+2548,"2023-07-19",America/Chicago,"05:00:00",MNL Sales 14: Tue-Sat | 22:00 - 06:00
+2548,"2023-07-20",America/Chicago,"05:00:00",MNL Sales 14: Tue-Sat | 22:00 - 06:00
+2549,"2023-07-18",Asia/Manila,-8:00:00,MNL Sales 9: Sun-Thu | 21:00 - 05:00
+2549,"2023-07-19",Asia/Manila,-8:00:00,MNL Sales 9: Sun-Thu | 21:00 - 05:00
+2549,"2023-07-20",Asia/Manila,-8:00:00,MNL Sales 9: Sun-Thu | 21:00 - 05:00
+2563,"2023-07-18",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Tue-Sat
+2563,"2023-07-19",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Tue-Sat
+2563,"2023-07-20",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Tue-Sat
+2564,"2023-07-18",America/Chicago,"05:00:00",NewRiv_2030-0530 Mon-Fri
+2564,"2023-07-19",America/Chicago,"05:00:00",NewRiv_2030-0530 Mon-Fri
+2564,"2023-07-20",America/Chicago,"05:00:00",NewRiv_2030-0530 Mon-Fri
+2565,"2023-07-18",Asia/Kolkata,-5:30:00,NewRiv_0030-0930
+2565,"2023-07-19",Asia/Kolkata,-5:30:00,NewRiv_0030-0930
+2565,"2023-07-20",Asia/Kolkata,-5:30:00,NewRiv_0030-0930
+2566,"2023-07-18",Asia/Kolkata,-5:30:00,NewRiv_2030-0530 Mon-Fri
+2566,"2023-07-19",Asia/Kolkata,-5:30:00,NewRiv_2030-0530 Mon-Fri
+2566,"2023-07-20",Asia/Kolkata,-5:30:00,NewRiv_2030-0530 Mon-Fri
+2567,"2023-07-18",Asia/Kolkata,-5:30:00,NewRiv_2030-0530 Mon-Fri
+2567,"2023-07-19",Asia/Kolkata,-5:30:00,NewRiv_2030-0530 Mon-Fri
+2567,"2023-07-20",Asia/Kolkata,-5:30:00,NewRiv_2030-0530 Mon-Fri
+2571,"2023-07-18",Asia/Manila,-8:00:00,MNL Sales 18: Tue-Sat | 18:00 - 02:00
+2571,"2023-07-19",Asia/Manila,-8:00:00,MNL Sales 18: Tue-Sat | 18:00 - 02:00
+2571,"2023-07-20",Asia/Manila,-8:00:00,MNL Sales 18: Tue-Sat | 18:00 - 02:00
+2572,"2023-07-18",America/New_York,"04:00:00",MNL Sales 9: Sun-Thu | 21:00 - 05:00
+2572,"2023-07-19",America/New_York,"04:00:00",MNL Sales 9: Sun-Thu | 21:00 - 05:00
+2572,"2023-07-20",America/New_York,"04:00:00",MNL Sales 9: Sun-Thu | 21:00 - 05:00
+2573,"2023-07-18",Asia/Manila,-8:00:00,MNL Sales 7: Sun-Thu | 06:00 - 14:00
+2573,"2023-07-19",Asia/Manila,-8:00:00,MNL Sales 7: Sun-Thu | 06:00 - 14:00
+2574,"2023-07-18",Asia/Manila,-8:00:00, MNL Sales 15: Tue-Sat | 20:00 - 04:00
+2574,"2023-07-19",Asia/Manila,-8:00:00, MNL Sales 15: Tue-Sat | 20:00 - 04:00
+2574,"2023-07-20",Asia/Manila,-8:00:00, MNL Sales 15: Tue-Sat | 20:00 - 04:00
+2575,"2023-07-18",Asia/Manila,-8:00:00,MNL Sales 9: Sun-Thu | 21:00 - 05:00
+2575,"2023-07-19",Asia/Manila,-8:00:00,MNL Sales 9: Sun-Thu | 21:00 - 05:00
+2575,"2023-07-20",Asia/Manila,-8:00:00,MNL Sales 9: Sun-Thu | 21:00 - 05:00
+2576,"2023-07-18",Asia/Manila,-8:00:00,MNL Sales 14: Tue-Sat | 22:00 - 06:00
+2576,"2023-07-19",Asia/Manila,-8:00:00,MNL Sales 14: Tue-Sat | 22:00 - 06:00
+2576,"2023-07-20",Asia/Manila,-8:00:00,MNL Sales 14: Tue-Sat | 22:00 - 06:00
+2577,"2023-07-18",America/New_York,"04:00:00",MNL Sales 8: Tue-Sat | 21:00 - 05:00
+2577,"2023-07-19",America/New_York,"04:00:00",MNL Sales 8: Tue-Sat | 21:00 - 05:00
+2577,"2023-07-20",America/New_York,"04:00:00",MNL Sales 8: Tue-Sat | 21:00 - 05:00
+2579,"2023-07-18",Asia/Manila,-8:00:00,MNL Sales 18: Tue-Sat | 18:00 - 02:00
+2579,"2023-07-19",Asia/Manila,-8:00:00,MNL Sales 18: Tue-Sat | 18:00 - 02:00
+2579,"2023-07-20",Asia/Manila,-8:00:00,MNL Sales 18: Tue-Sat | 18:00 - 02:00
+2580,"2023-07-18",Asia/Manila,-8:00:00,MNL Sales 9: Sun-Thu | 21:00 - 05:00
+2580,"2023-07-19",Asia/Manila,-8:00:00,MNL Sales 9: Sun-Thu | 21:00 - 05:00
+2580,"2023-07-20",Asia/Manila,-8:00:00,MNL Sales 9: Sun-Thu | 21:00 - 05:00
+2581,"2023-07-18",Asia/Manila,-8:00:00,MNL Sales 16: Tue-Sat | 2:00-10:00
+2581,"2023-07-19",Asia/Manila,-8:00:00,MNL Sales 16: Tue-Sat | 2:00-10:00
+2581,"2023-07-20",Asia/Manila,-8:00:00,MNL Sales 16: Tue-Sat | 2:00-10:00
+2583,"2023-07-18",America/New_York,"04:00:00",MNL Sales 13: Sun-Thu | 22:00 - 06:00
+2583,"2023-07-19",America/New_York,"04:00:00",MNL Sales 13: Sun-Thu | 22:00 - 06:00
+2583,"2023-07-20",America/New_York,"04:00:00",MNL Sales 13: Sun-Thu | 22:00 - 06:00
+2585,"2023-07-18",America/New_York,"04:00:00",MNL Sales 12: Sun-Thu | 20:00 - 04:00
+2585,"2023-07-19",America/New_York,"04:00:00",MNL Sales 12: Sun-Thu | 20:00 - 04:00
+2585,"2023-07-20",America/New_York,"04:00:00",MNL Sales 12: Sun-Thu | 20:00 - 04:00
+2586,"2023-07-18",Asia/Manila,-8:00:00,MNL Sales 18: Tue-Sat | 18:00 - 02:00
+2586,"2023-07-19",Asia/Manila,-8:00:00,MNL Sales 18: Tue-Sat | 18:00 - 02:00
+2586,"2023-07-20",Asia/Manila,-8:00:00,MNL Sales 18: Tue-Sat | 18:00 - 02:00
+2588,"2023-07-18",Asia/Kolkata,-5:30:00,NewRiv_2030-0530 Mon-Fri
+2588,"2023-07-19",Asia/Kolkata,-5:30:00,NewRiv_2030-0530 Mon-Fri
+2588,"2023-07-20",Asia/Kolkata,-5:30:00,NewRiv_2030-0530 Mon-Fri
+2589,"2023-07-20",Asia/Kolkata,-5:30:00,NewRiv_2030-0530 Mon-Fri
+2607,"2023-07-18",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Mon-Fri
+2607,"2023-07-19",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Mon-Fri
+2607,"2023-07-20",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Mon-Fri
+2609,"2023-07-18",Asia/Kolkata,-5:30:00,NewRiv_0030-0930
+2609,"2023-07-19",Asia/Kolkata,-5:30:00,NewRiv_0030-0930
+2609,"2023-07-20",Asia/Kolkata,-5:30:00,NewRiv_0030-0930
+2610,"2023-07-18",Asia/Kolkata,-5:30:00,NewRiv_0030-0930
+2610,"2023-07-20",Asia/Kolkata,-5:30:00,NewRiv_0030-0930
+2613,"2023-07-18",Asia/Kolkata,-5:30:00,NewRiv_0030-0930
+2613,"2023-07-19",Asia/Kolkata,-5:30:00,NewRiv_0030-0930
+2613,"2023-07-20",Asia/Kolkata,-5:30:00,NewRiv_0030-0930
+2614,"2023-07-18",Asia/Kolkata,-5:30:00,NewRiv_2030-0530 Mon-Fri
+2614,"2023-07-19",Asia/Kolkata,-5:30:00,NewRiv_2030-0530 Mon-Fri
+2614,"2023-07-20",Asia/Kolkata,-5:30:00,NewRiv_2030-0530 Mon-Fri
+2616,"2023-07-18",Asia/Kolkata,-5:30:00,NewRiv_0030-0930
+2616,"2023-07-19",Asia/Kolkata,-5:30:00,NewRiv_0030-0930
+2616,"2023-07-20",Asia/Kolkata,-5:30:00,NewRiv_0030-0930
+2617,"2023-07-18",Asia/Kolkata,-5:30:00,NewRiv_0030-0930
+2617,"2023-07-19",Asia/Kolkata,-5:30:00,NewRiv_0030-0930
+2617,"2023-07-20",Asia/Kolkata,-5:30:00,NewRiv_0030-0930
+2619,"2023-07-18",Asia/Kolkata,-5:30:00,NewRiv_2359-0900
+2619,"2023-07-19",Asia/Kolkata,-5:30:00,NewRiv_2359-0900
+2619,"2023-07-20",Asia/Kolkata,-5:30:00,NewRiv_2359-0900
+2620,"2023-07-18",Asia/Kolkata,-5:30:00,NewRiv_2030-0530 Mon-Fri
+2620,"2023-07-19",Asia/Kolkata,-5:30:00,NewRiv_2030-0530 Mon-Fri
+2620,"2023-07-20",Asia/Kolkata,-5:30:00,NewRiv_2030-0530 Mon-Fri
+2622,"2023-07-18",Asia/Kolkata,-5:30:00,NewRiv_2030-0530 Mon-Fri
+2622,"2023-07-19",Asia/Kolkata,-5:30:00,NewRiv_2030-0530 Mon-Fri
+2622,"2023-07-20",Asia/Kolkata,-5:30:00,NewRiv_2030-0530 Mon-Fri
+2629,"2023-07-18",Asia/Manila,-8:00:00,MNL Sales 12: Sun-Thu | 20:00 - 04:00
+2629,"2023-07-19",Asia/Manila,-8:00:00,MNL Sales 12: Sun-Thu | 20:00 - 04:00
+2629,"2023-07-20",Asia/Manila,-8:00:00,MNL Sales 12: Sun-Thu | 20:00 - 04:00
+2631,"2023-07-18",Asia/Manila,-8:00:00,MNL Sales 9: Sun-Thu | 21:00 - 05:00
+2631,"2023-07-19",Asia/Manila,-8:00:00,MNL Sales 9: Sun-Thu | 21:00 - 05:00
+2631,"2023-07-20",Asia/Manila,-8:00:00,MNL Sales 9: Sun-Thu | 21:00 - 05:00
+2633,"2023-07-18",Asia/Manila,-8:00:00,MNL Sales 14: Tue-Sat | 22:00 - 06:00
+2633,"2023-07-19",Asia/Manila,-8:00:00,MNL Sales 14: Tue-Sat | 22:00 - 06:00
+2633,"2023-07-20",Asia/Manila,-8:00:00,MNL Sales 14: Tue-Sat | 22:00 - 06:00
+2634,"2023-07-18",Asia/Manila,-8:00:00,MNL Sales 4: Tue-Sat | 06:00 - 14:00
+2634,"2023-07-19",Asia/Manila,-8:00:00,MNL Sales 4: Tue-Sat | 06:00 - 14:00
+2634,"2023-07-20",Asia/Manila,-8:00:00,MNL Sales 4: Tue-Sat | 06:00 - 14:00
+2635,"2023-07-18",Asia/Manila,-8:00:00,MNL Sales 7: Sun-Thu | 06:00 - 14:00
+2635,"2023-07-19",Asia/Manila,-8:00:00,MNL Sales 7: Sun-Thu | 06:00 - 14:00
+2636,"2023-07-18",Asia/Manila,-8:00:00,MNL Sales 13: Sun-Thu | 22:00 - 06:00
+2636,"2023-07-19",Asia/Manila,-8:00:00,MNL Sales 13: Sun-Thu | 22:00 - 06:00
+2636,"2023-07-20",Asia/Manila,-8:00:00,MNL Sales 13: Sun-Thu | 22:00 - 06:00
+2638,"2023-07-18",Asia/Manila,-8:00:00,MNL Sales 4: Tue-Sat | 06:00 - 14:00
+2638,"2023-07-19",Asia/Manila,-8:00:00,MNL Sales 4: Tue-Sat | 06:00 - 14:00
+2638,"2023-07-20",Asia/Manila,-8:00:00,MNL Sales 4: Tue-Sat | 06:00 - 14:00
+2639,"2023-07-18",Asia/Manila,-8:00:00,MNL Sales 7: Sun-Thu | 06:00 - 14:00
+2639,"2023-07-19",Asia/Manila,-8:00:00,MNL Sales 7: Sun-Thu | 06:00 - 14:00
+2641,"2023-07-18",Asia/Manila,-8:00:00, MNL Sales 15: Tue-Sat | 20:00 - 04:00
+2641,"2023-07-19",Asia/Manila,-8:00:00, MNL Sales 15: Tue-Sat | 20:00 - 04:00
+2641,"2023-07-20",Asia/Manila,-8:00:00, MNL Sales 15: Tue-Sat | 20:00 - 04:00
+2642,"2023-07-18",Asia/Manila,-8:00:00,MNL Sales 4: Tue-Sat | 06:00 - 14:00
+2642,"2023-07-19",Asia/Manila,-8:00:00,MNL Sales 4: Tue-Sat | 06:00 - 14:00
+2642,"2023-07-20",Asia/Manila,-8:00:00,MNL Sales 4: Tue-Sat | 06:00 - 14:00
+2644,"2023-07-18",Asia/Manila,-8:00:00,MNL Sales 4: Tue-Sat | 06:00 - 14:00
+2644,"2023-07-19",Asia/Manila,-8:00:00,MNL Sales 4: Tue-Sat | 06:00 - 14:00
+2644,"2023-07-20",Asia/Manila,-8:00:00,MNL Sales 4: Tue-Sat | 06:00 - 14:00
+2647,"2023-07-18",Asia/Manila,-8:00:00,MNL Sales 14: Tue-Sat | 22:00 - 06:00
+2647,"2023-07-19",Asia/Manila,-8:00:00,MNL Sales 14: Tue-Sat | 22:00 - 06:00
+2647,"2023-07-20",Asia/Manila,-8:00:00,MNL Sales 14: Tue-Sat | 22:00 - 06:00
+2649,"2023-07-18",America/Chicago,"05:00:00",MNL Sales 13: Sun-Thu | 22:00 - 06:00
+2649,"2023-07-19",America/Chicago,"05:00:00",MNL Sales 13: Sun-Thu | 22:00 - 06:00
+2649,"2023-07-20",America/Chicago,"05:00:00",MNL Sales 13: Sun-Thu | 22:00 - 06:00
+2651,"2023-07-18",America/New_York,"04:00:00",MNL Sales 13: Sun-Thu | 22:00 - 06:00
+2651,"2023-07-19",America/New_York,"04:00:00",MNL Sales 13: Sun-Thu | 22:00 - 06:00
+2651,"2023-07-20",America/New_York,"04:00:00",MNL Sales 13: Sun-Thu | 22:00 - 06:00
+2652,"2023-07-18",Asia/Manila,-8:00:00,MNL Sales 4: Tue-Sat | 06:00 - 14:00
+2652,"2023-07-19",Asia/Manila,-8:00:00,MNL Sales 4: Tue-Sat | 06:00 - 14:00
+2652,"2023-07-20",Asia/Manila,-8:00:00,MNL Sales 4: Tue-Sat | 06:00 - 14:00
+2653,"2023-07-18",Asia/Manila,-8:00:00,MNL Sales 9: Sun-Thu | 21:00 - 05:00
+2653,"2023-07-19",Asia/Manila,-8:00:00,MNL Sales 9: Sun-Thu | 21:00 - 05:00
+2653,"2023-07-20",Asia/Manila,-8:00:00,MNL Sales 9: Sun-Thu | 21:00 - 05:00
+2654,"2023-07-18",Asia/Manila,-8:00:00,MNL Sales 9: Sun-Thu | 21:00 - 05:00
+2654,"2023-07-19",Asia/Manila,-8:00:00,MNL Sales 9: Sun-Thu | 21:00 - 05:00
+2654,"2023-07-20",Asia/Manila,-8:00:00,MNL Sales 9: Sun-Thu | 21:00 - 05:00
+2655,"2023-07-18",Asia/Manila,-8:00:00,MNL Sales 4: Tue-Sat | 06:00 - 14:00
+2655,"2023-07-19",Asia/Manila,-8:00:00,MNL Sales 4: Tue-Sat | 06:00 - 14:00
+2655,"2023-07-20",Asia/Manila,-8:00:00,MNL Sales 4: Tue-Sat | 06:00 - 14:00
+2659,"2023-07-18",Asia/Manila,-8:00:00,MNL Sales 14: Tue-Sat | 22:00 - 06:00
+2659,"2023-07-19",Asia/Manila,-8:00:00,MNL Sales 14: Tue-Sat | 22:00 - 06:00
+2659,"2023-07-20",Asia/Manila,-8:00:00,MNL Sales 14: Tue-Sat | 22:00 - 06:00
+2660,"2023-07-18",Asia/Manila,-8:00:00, MNL Sales 15: Tue-Sat | 20:00 - 04:00
+2660,"2023-07-19",Asia/Manila,-8:00:00, MNL Sales 15: Tue-Sat | 20:00 - 04:00
+2660,"2023-07-20",Asia/Manila,-8:00:00, MNL Sales 15: Tue-Sat | 20:00 - 04:00
+2662,"2023-07-18",Asia/Manila,-8:00:00,MNL Sales 4: Tue-Sat | 06:00 - 14:00
+2662,"2023-07-19",Asia/Manila,-8:00:00,MNL Sales 4: Tue-Sat | 06:00 - 14:00
+2662,"2023-07-20",Asia/Manila,-8:00:00,MNL Sales 4: Tue-Sat | 06:00 - 14:00
+2663,"2023-07-18",Asia/Manila,-8:00:00,MNL Sales 4: Tue-Sat | 06:00 - 14:00
+2663,"2023-07-19",Asia/Manila,-8:00:00,MNL Sales 4: Tue-Sat | 06:00 - 14:00
+2663,"2023-07-20",Asia/Manila,-8:00:00,MNL Sales 4: Tue-Sat | 06:00 - 14:00
+2664,"2023-07-18",Asia/Manila,-8:00:00,MNL Sales 4: Tue-Sat | 06:00 - 14:00
+2664,"2023-07-19",Asia/Manila,-8:00:00,MNL Sales 4: Tue-Sat | 06:00 - 14:00
+2664,"2023-07-20",Asia/Manila,-8:00:00,MNL Sales 4: Tue-Sat | 06:00 - 14:00
+2667,"2023-07-18",Asia/Kolkata,-5:30:00,NewRiv_0030-0930
+2667,"2023-07-19",Asia/Kolkata,-5:30:00,NewRiv_0030-0930
+2667,"2023-07-20",Asia/Kolkata,-5:30:00,NewRiv_0030-0930
+2670,"2023-07-18",America/New_York,"04:00:00",MNL Sales 13: Sun-Thu | 22:00 - 06:00
+2670,"2023-07-19",America/New_York,"04:00:00",MNL Sales 13: Sun-Thu | 22:00 - 06:00
+2670,"2023-07-20",America/New_York,"04:00:00",MNL Sales 13: Sun-Thu | 22:00 - 06:00
+2691,"2023-07-18",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Mon-Fri
+2691,"2023-07-19",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Mon-Fri
+2691,"2023-07-20",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Mon-Fri
+2693,"2023-07-18",Asia/Kolkata,-5:30:00,NewRiv_2359-0900
+2693,"2023-07-19",Asia/Kolkata,-5:30:00,NewRiv_2359-0900
+2693,"2023-07-20",Asia/Kolkata,-5:30:00,NewRiv_2359-0900
+2694,"2023-07-18",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Mon-Fri
+2694,"2023-07-19",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Mon-Fri
+2694,"2023-07-20",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Mon-Fri
+2695,"2023-07-18",Asia/Kolkata,-5:30:00,NewRiv_0030-0930
+2695,"2023-07-19",Asia/Kolkata,-5:30:00,NewRiv_0030-0930
+2695,"2023-07-20",Asia/Kolkata,-5:30:00,NewRiv_0030-0930
+2698,"2023-07-18",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Tue-Sat
+2698,"2023-07-19",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Tue-Sat
+2698,"2023-07-20",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Tue-Sat
+2715,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 1 Tue-Sat 12.30am
+2715,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 1 Tue-Sat 12.30am
+2715,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 1 Tue-Sat 12.30am
+2756,"2023-07-18",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Mon-Fri
+2756,"2023-07-19",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Mon-Fri
+2756,"2023-07-20",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Mon-Fri
+2757,"2023-07-18",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Mon-Fri
+2757,"2023-07-19",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Mon-Fri
+2757,"2023-07-20",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Mon-Fri
+2758,"2023-07-18",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Mon-Fri
+2758,"2023-07-19",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Mon-Fri
+2758,"2023-07-20",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Mon-Fri
+2759,"2023-07-18",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Mon-Fri
+2759,"2023-07-19",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Mon-Fri
+2759,"2023-07-20",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Mon-Fri
+2769,"2023-07-18",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Mon-Fri
+2769,"2023-07-19",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Mon-Fri
+2769,"2023-07-20",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Mon-Fri
+2770,"2023-07-18",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Mon-Fri
+2770,"2023-07-19",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Mon-Fri
+2770,"2023-07-20",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Mon-Fri
+2772,"2023-07-18",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Mon-Fri
+2772,"2023-07-19",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Mon-Fri
+2772,"2023-07-20",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Mon-Fri
+2773,"2023-07-18",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Mon-Fri
+2773,"2023-07-19",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Mon-Fri
+2773,"2023-07-20",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Mon-Fri
+2775,"2023-07-18",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Mon-Fri
+2775,"2023-07-19",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Mon-Fri
+2775,"2023-07-20",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Mon-Fri
+2776,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 2 Sun-Thu 1.30am
+2776,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 2 Sun-Thu 1.30am
+2777,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 2 Sun-Thu 1.30am
+2777,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 2 Sun-Thu 1.30am
+2778,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 2 Sun-Thu 1.30am
+2778,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 2 Sun-Thu 1.30am
+2789,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 2 Sun-Thu 1.30am
+2789,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 2 Sun-Thu 1.30am
+2791,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 2 Sun-Thu 1.30am
+2791,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 2 Sun-Thu 1.30am
+2792,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 2 Sun-Thu 1.30am
+2792,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 2 Sun-Thu 1.30am
+2793,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 2 Sun-Thu 1.30am
+2793,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 2 Sun-Thu 1.30am
+2794,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 2 Sun-Thu 1.30am
+2794,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 2 Sun-Thu 1.30am
+2795,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 2 Sun-Thu 1.30am
+2795,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 2 Sun-Thu 1.30am
+2796,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 2 Sun-Thu 1.30am
+2796,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 2 Sun-Thu 1.30am
+2797,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 2 Sun-Thu 1.30am
+2797,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 2 Sun-Thu 1.30am
+2798,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 2 Sun-Thu 1.30am
+2798,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 2 Sun-Thu 1.30am
+2799,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 2 Sun-Thu 1.30am
+2799,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 2 Sun-Thu 1.30am
+2802,"2023-07-18",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Mon-Fri
+2802,"2023-07-19",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Mon-Fri
+2802,"2023-07-20",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Mon-Fri
+2803,"2023-07-18",Asia/Kolkata,-5:30:00,NewRiv_0030-0930
+2803,"2023-07-19",Asia/Kolkata,-5:30:00,NewRiv_0030-0930
+2803,"2023-07-20",Asia/Kolkata,-5:30:00,NewRiv_0030-0930
+2804,"2023-07-18",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Mon-Fri
+2804,"2023-07-19",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Mon-Fri
+2804,"2023-07-20",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Mon-Fri
+2805,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 12 Tue - Sat 09:30 PM
+2805,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 12 Tue - Sat 09:30 PM
+2805,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 12 Tue - Sat 09:30 PM
+2806,"2023-07-18",Asia/Kolkata,-5:30:00,NewRiv_0030-0930
+2806,"2023-07-19",Asia/Kolkata,-5:30:00,NewRiv_0030-0930
+2806,"2023-07-20",Asia/Kolkata,-5:30:00,NewRiv_0030-0930
+2807,"2023-07-18",Asia/Kolkata,-5:30:00,NewRiv_0030-0930
+2807,"2023-07-19",Asia/Kolkata,-5:30:00,NewRiv_0030-0930
+2807,"2023-07-20",Asia/Kolkata,-5:30:00,NewRiv_0030-0930
+2808,"2023-07-18",Asia/Kolkata,-5:30:00,NewRiv_2030-0530 Mon-Fri
+2808,"2023-07-20",Asia/Kolkata,-5:30:00,NewRiv_2030-0530 Mon-Fri
+2809,"2023-07-18",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Mon-Fri
+2809,"2023-07-19",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Mon-Fri
+2809,"2023-07-20",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Mon-Fri
+2810,"2023-07-18",Asia/Kolkata,-5:30:00,NewRiv_0030-0930
+2810,"2023-07-19",Asia/Kolkata,-5:30:00,NewRiv_0030-0930
+2810,"2023-07-20",Asia/Kolkata,-5:30:00,NewRiv_0030-0930
+2811,"2023-07-18",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Tue-Sat
+2811,"2023-07-19",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Tue-Sat
+2811,"2023-07-20",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Tue-Sat
+2812,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 13 Sun - Thu 11:30 PM
+2812,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 13 Sun - Thu 11:30 PM
+2812,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 13 Sun - Thu 11:30 PM
+2813,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 12 Tue - Sat 09:30 PM
+2813,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 12 Tue - Sat 09:30 PM
+2813,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 12 Tue - Sat 09:30 PM
+2815,"2023-07-18",Asia/Kolkata,-5:30:00,Del Sales 10 Sun-Thu 7.30 PM
+2815,"2023-07-19",Asia/Kolkata,-5:30:00,Del Sales 10 Sun-Thu 7.30 PM
+2815,"2023-07-20",Asia/Kolkata,-5:30:00,Del Sales 10 Sun-Thu 7.30 PM
+2816,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 12 Tue - Sat 09:30 PM
+2816,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 12 Tue - Sat 09:30 PM
+2816,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 12 Tue - Sat 09:30 PM
+2817,"2023-07-18",Asia/Kolkata,-5:30:00,Del Sales 10 Sun-Thu 7.30 PM
+2817,"2023-07-19",Asia/Kolkata,-5:30:00,Del Sales 10 Sun-Thu 7.30 PM
+2817,"2023-07-20",Asia/Kolkata,-5:30:00,Del Sales 10 Sun-Thu 7.30 PM
+2818,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 12 Tue - Sat 09:30 PM
+2818,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 12 Tue - Sat 09:30 PM
+2818,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 12 Tue - Sat 09:30 PM
+2819,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 12 Tue - Sat 09:30 PM
+2819,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 12 Tue - Sat 09:30 PM
+2819,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 12 Tue - Sat 09:30 PM
+2820,"2023-07-18",Asia/Kolkata,-5:30:00,Del Sales 10 Sun-Thu 7.30 PM
+2820,"2023-07-19",Asia/Kolkata,-5:30:00,Del Sales 10 Sun-Thu 7.30 PM
+2820,"2023-07-20",Asia/Kolkata,-5:30:00,Del Sales 10 Sun-Thu 7.30 PM
+2821,"2023-07-18",Asia/Kolkata,-5:30:00,Del Sales 10 Sun-Thu 7.30 PM
+2821,"2023-07-19",Asia/Kolkata,-5:30:00,Del Sales 10 Sun-Thu 7.30 PM
+2821,"2023-07-20",Asia/Kolkata,-5:30:00,Del Sales 10 Sun-Thu 7.30 PM
+2823,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 13 Sun - Thu 11:30 PM
+2823,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 13 Sun - Thu 11:30 PM
+2823,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 13 Sun - Thu 11:30 PM
+2836,"2023-07-18",Asia/Kolkata,-5:30:00,NewRiv_0030-0930
+2836,"2023-07-19",Asia/Kolkata,-5:30:00,NewRiv_0030-0930
+2836,"2023-07-20",Asia/Kolkata,-5:30:00,NewRiv_0030-0930
+2837,"2023-07-18",Asia/Kolkata,-5:30:00,NewRiv_0030-0930
+2837,"2023-07-19",Asia/Kolkata,-5:30:00,NewRiv_0030-0930
+2837,"2023-07-20",Asia/Kolkata,-5:30:00,NewRiv_0030-0930
+2839,"2023-07-18",Asia/Kolkata,-5:30:00,NewRiv_0030-0930
+2839,"2023-07-19",Asia/Kolkata,-5:30:00,NewRiv_0030-0930
+2839,"2023-07-20",Asia/Kolkata,-5:30:00,NewRiv_0030-0930
+2840,"2023-07-18",Asia/Kolkata,-5:30:00,NewRiv_0030-0930
+2840,"2023-07-19",Asia/Kolkata,-5:30:00,NewRiv_0030-0930
+2840,"2023-07-20",Asia/Kolkata,-5:30:00,NewRiv_0030-0930
+2841,"2023-07-18",Asia/Kolkata,-5:30:00,NewRiv_0030-0930
+2841,"2023-07-19",Asia/Kolkata,-5:30:00,NewRiv_0030-0930
+2841,"2023-07-20",Asia/Kolkata,-5:30:00,NewRiv_0030-0930
+2844,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 13 Sun - Thu 11:30 PM
+2844,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 13 Sun - Thu 11:30 PM
+2844,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 13 Sun - Thu 11:30 PM
+2845,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 11 Sun - Thu 08:30 PM
+2845,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 11 Sun - Thu 08:30 PM
+2845,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 11 Sun - Thu 08:30 PM
+2847,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 9 Sun-Thu 07.30
+2847,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 9 Sun-Thu 07.30
+2847,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 9 Sun-Thu 07.30
+2848,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 2 Sun-Thu 1.30am
+2848,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 2 Sun-Thu 1.30am
+2849,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 7 Sun - Thu 04:30 PM 
+2849,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 7 Sun - Thu 04:30 PM 
+2849,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 7 Sun - Thu 04:30 PM 
+2856,"2023-07-18",Asia/Manila,-8:00:00,MNL Sales 12: Sun-Thu | 20:00 - 04:00
+2856,"2023-07-19",Asia/Manila,-8:00:00,MNL Sales 12: Sun-Thu | 20:00 - 04:00
+2856,"2023-07-20",Asia/Manila,-8:00:00,MNL Sales 12: Sun-Thu | 20:00 - 04:00
+2857,"2023-07-18",Asia/Manila,-8:00:00,MNL Sales 8: Tue-Sat | 21:00 - 05:00
+2857,"2023-07-19",Asia/Manila,-8:00:00,MNL Sales 8: Tue-Sat | 21:00 - 05:00
+2857,"2023-07-20",Asia/Manila,-8:00:00,MNL Sales 8: Tue-Sat | 21:00 - 05:00
+2858,"2023-07-18",Asia/Manila,-8:00:00,MNL Sales 18: Tue-Sat | 18:00 - 02:00
+2858,"2023-07-19",Asia/Manila,-8:00:00,MNL Sales 18: Tue-Sat | 18:00 - 02:00
+2858,"2023-07-20",Asia/Manila,-8:00:00,MNL Sales 18: Tue-Sat | 18:00 - 02:00
+2860,"2023-07-18",America/Chicago,"05:00:00",MNL Sales 12: Sun-Thu | 20:00 - 04:00
+2860,"2023-07-19",America/Chicago,"05:00:00",MNL Sales 12: Sun-Thu | 20:00 - 04:00
+2860,"2023-07-20",America/Chicago,"05:00:00",MNL Sales 12: Sun-Thu | 20:00 - 04:00
+2862,"2023-07-18",Asia/Manila,-8:00:00, MNL Sales 15: Tue-Sat | 20:00 - 04:00
+2862,"2023-07-19",Asia/Manila,-8:00:00, MNL Sales 15: Tue-Sat | 20:00 - 04:00
+2862,"2023-07-20",Asia/Manila,-8:00:00, MNL Sales 15: Tue-Sat | 20:00 - 04:00
+2863,"2023-07-18",Asia/Manila,-8:00:00,MNL Sales 8: Tue-Sat | 21:00 - 05:00
+2863,"2023-07-19",Asia/Manila,-8:00:00,MNL Sales 8: Tue-Sat | 21:00 - 05:00
+2863,"2023-07-20",Asia/Manila,-8:00:00,MNL Sales 8: Tue-Sat | 21:00 - 05:00
+2864,"2023-07-18",Asia/Manila,-8:00:00,MNL Sales 9: Sun-Thu | 21:00 - 05:00
+2864,"2023-07-19",Asia/Manila,-8:00:00,MNL Sales 9: Sun-Thu | 21:00 - 05:00
+2864,"2023-07-20",Asia/Manila,-8:00:00,MNL Sales 9: Sun-Thu | 21:00 - 05:00
+2865,"2023-07-18",Asia/Manila,-8:00:00,MNL Sales 9: Sun-Thu | 21:00 - 05:00
+2865,"2023-07-19",Asia/Manila,-8:00:00,MNL Sales 9: Sun-Thu | 21:00 - 05:00
+2865,"2023-07-20",Asia/Manila,-8:00:00,MNL Sales 9: Sun-Thu | 21:00 - 05:00
+2866,"2023-07-18",Asia/Manila,-8:00:00,MNL Sales 7: Sun-Thu | 06:00 - 14:00
+2866,"2023-07-19",Asia/Manila,-8:00:00,MNL Sales 7: Sun-Thu | 06:00 - 14:00
+2867,"2023-07-18",Asia/Manila,-8:00:00,MNL Sales 14: Tue-Sat | 22:00 - 06:00
+2867,"2023-07-19",Asia/Manila,-8:00:00,MNL Sales 14: Tue-Sat | 22:00 - 06:00
+2867,"2023-07-20",Asia/Manila,-8:00:00,MNL Sales 14: Tue-Sat | 22:00 - 06:00
+2870,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 8 Tue - Sat 06:30 PM
+2870,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 8 Tue - Sat 06:30 PM
+2870,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 8 Tue - Sat 06:30 PM
+2876,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 12 Tue - Sat 09:30 PM
+2876,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 12 Tue - Sat 09:30 PM
+2876,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 12 Tue - Sat 09:30 PM
+2877,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 11 Sun - Thu 08:30 PM
+2877,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 11 Sun - Thu 08:30 PM
+2877,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 11 Sun - Thu 08:30 PM
+2879,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 11 Sun - Thu 08:30 PM
+2879,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 11 Sun - Thu 08:30 PM
+2879,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 11 Sun - Thu 08:30 PM
+2880,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 11 Sun - Thu 08:30 PM
+2880,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 11 Sun - Thu 08:30 PM
+2880,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 11 Sun - Thu 08:30 PM
+2883,"2023-07-18",Asia/Kolkata,-5:30:00,NewRiv_0030-0930
+2883,"2023-07-19",Asia/Kolkata,-5:30:00,NewRiv_0030-0930
+2883,"2023-07-20",Asia/Kolkata,-5:30:00,NewRiv_0030-0930
+2888,"2023-07-18",America/Denver,"06:00:00",MNL Sales 7: Sun-Thu | 06:00 - 14:00
+2888,"2023-07-19",America/Denver,"06:00:00",MNL Sales 7: Sun-Thu | 06:00 - 14:00
+2889,"2023-07-18",Asia/Manila,-8:00:00,MNL Sales 18: Tue-Sat | 18:00 - 02:00
+2889,"2023-07-19",Asia/Manila,-8:00:00,MNL Sales 18: Tue-Sat | 18:00 - 02:00
+2890,"2023-07-18",Asia/Manila,-8:00:00,MNL Sales 18: Tue-Sat | 18:00 - 02:00
+2890,"2023-07-19",Asia/Manila,-8:00:00,MNL Sales 18: Tue-Sat | 18:00 - 02:00
+2890,"2023-07-20",Asia/Manila,-8:00:00,MNL Sales 18: Tue-Sat | 18:00 - 02:00
+2892,"2023-07-18",Asia/Manila,-8:00:00,MNL Sales 4: Tue-Sat | 06:00 - 14:00
+2892,"2023-07-19",Asia/Manila,-8:00:00,MNL Sales 4: Tue-Sat | 06:00 - 14:00
+2892,"2023-07-20",Asia/Manila,-8:00:00,MNL Sales 4: Tue-Sat | 06:00 - 14:00
+2893,"2023-07-18",Asia/Manila,-8:00:00,MNL Sales 12: Sun-Thu | 20:00 - 04:00
+2893,"2023-07-19",Asia/Manila,-8:00:00,MNL Sales 12: Sun-Thu | 20:00 - 04:00
+2893,"2023-07-20",Asia/Manila,-8:00:00,MNL Sales 12: Sun-Thu | 20:00 - 04:00
+2894,"2023-07-18",Asia/Manila,-8:00:00,MNL Sales 8: Tue-Sat | 21:00 - 05:00
+2894,"2023-07-19",Asia/Manila,-8:00:00,MNL Sales 8: Tue-Sat | 21:00 - 05:00
+2894,"2023-07-20",Asia/Manila,-8:00:00,MNL Sales 8: Tue-Sat | 21:00 - 05:00
+2895,"2023-07-18",Asia/Manila,-8:00:00,MNL Sales 4: Tue-Sat | 06:00 - 14:00
+2895,"2023-07-19",Asia/Manila,-8:00:00,MNL Sales 4: Tue-Sat | 06:00 - 14:00
+2895,"2023-07-20",Asia/Manila,-8:00:00,MNL Sales 4: Tue-Sat | 06:00 - 14:00
+2896,"2023-07-18",Asia/Manila,-8:00:00,MNL Sales 4: Tue-Sat | 06:00 - 14:00
+2896,"2023-07-19",Asia/Manila,-8:00:00,MNL Sales 4: Tue-Sat | 06:00 - 14:00
+2896,"2023-07-20",Asia/Manila,-8:00:00,MNL Sales 4: Tue-Sat | 06:00 - 14:00
+2897,"2023-07-18",Asia/Manila,-8:00:00,MNL Sales 7: Sun-Thu | 06:00 - 14:00
+2897,"2023-07-19",Asia/Manila,-8:00:00,MNL Sales 7: Sun-Thu | 06:00 - 14:00
+2898,"2023-07-18",Asia/Manila,-8:00:00,MNL Sales 14: Tue-Sat | 22:00 - 06:00
+2898,"2023-07-19",Asia/Manila,-8:00:00,MNL Sales 14: Tue-Sat | 22:00 - 06:00
+2898,"2023-07-20",Asia/Manila,-8:00:00,MNL Sales 14: Tue-Sat | 22:00 - 06:00
+2899,"2023-07-18",Asia/Manila,-8:00:00,MNL Sales 18: Tue-Sat | 18:00 - 02:00
+2899,"2023-07-19",Asia/Manila,-8:00:00,MNL Sales 18: Tue-Sat | 18:00 - 02:00
+2899,"2023-07-20",Asia/Manila,-8:00:00,MNL Sales 18: Tue-Sat | 18:00 - 02:00
+2901,"2023-07-18",Asia/Manila,-8:00:00,MNL Sales 9: Sun-Thu | 21:00 - 05:00
+2901,"2023-07-19",Asia/Manila,-8:00:00,MNL Sales 9: Sun-Thu | 21:00 - 05:00
+2901,"2023-07-20",Asia/Manila,-8:00:00,MNL Sales 9: Sun-Thu | 21:00 - 05:00
+2902,"2023-07-18",Asia/Manila,-8:00:00,MNL Sales 18: Tue-Sat | 18:00 - 02:00
+2902,"2023-07-19",Asia/Manila,-8:00:00,MNL Sales 18: Tue-Sat | 18:00 - 02:00
+2903,"2023-07-18",Asia/Manila,-8:00:00,MNL Sales 7: Sun-Thu | 06:00 - 14:00
+2903,"2023-07-19",Asia/Manila,-8:00:00,MNL Sales 7: Sun-Thu | 06:00 - 14:00
+2907,"2023-07-18",Asia/Manila,-8:00:00,MNL Sales 9: Sun-Thu | 21:00 - 05:00
+2907,"2023-07-19",Asia/Manila,-8:00:00,MNL Sales 9: Sun-Thu | 21:00 - 05:00
+2907,"2023-07-20",Asia/Manila,-8:00:00,MNL Sales 9: Sun-Thu | 21:00 - 05:00
+2914,"2023-07-18",Asia/Kolkata,-5:30:00,NewRiv_0030-0930
+2914,"2023-07-19",Asia/Kolkata,-5:30:00,NewRiv_0030-0930
+2914,"2023-07-20",Asia/Kolkata,-5:30:00,NewRiv_0030-0930
+2920,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 13 Sun - Thu 11:30 PM
+2920,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 13 Sun - Thu 11:30 PM
+2920,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 13 Sun - Thu 11:30 PM
+2925,"2023-07-18",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Mon-Fri
+2925,"2023-07-19",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Mon-Fri
+2925,"2023-07-20",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Mon-Fri
+2926,"2023-07-18",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Tue-Sat
+2926,"2023-07-19",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Tue-Sat
+2926,"2023-07-20",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Tue-Sat
+2927,"2023-07-18",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Tue-Sat
+2927,"2023-07-19",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Tue-Sat
+2927,"2023-07-20",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Tue-Sat
+2929,"2023-07-18",Asia/Kolkata,-5:30:00,NewRiv_2030-0530 Mon-Fri
+2929,"2023-07-19",Asia/Kolkata,-5:30:00,NewRiv_2030-0530 Mon-Fri
+2929,"2023-07-20",Asia/Kolkata,-5:30:00,NewRiv_2030-0530 Mon-Fri
+2932,"2023-07-18",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Tue-Sat
+2932,"2023-07-19",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Tue-Sat
+2932,"2023-07-20",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Tue-Sat
+2933,"2023-07-18",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Tue-Sat
+2933,"2023-07-19",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Tue-Sat
+2933,"2023-07-20",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Tue-Sat
+2934,"2023-07-18",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Tue-Sat
+2934,"2023-07-19",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Tue-Sat
+2934,"2023-07-20",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Tue-Sat
+2935,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 12 Tue - Sat 09:30 PM
+2935,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 12 Tue - Sat 09:30 PM
+2935,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 12 Tue - Sat 09:30 PM
+2939,"2023-07-18",Asia/Manila,-8:00:00,MNL Sales 12: Sun-Thu | 20:00 - 04:00
+2939,"2023-07-19",Asia/Manila,-8:00:00,MNL Sales 12: Sun-Thu | 20:00 - 04:00
+2939,"2023-07-20",Asia/Manila,-8:00:00,MNL Sales 12: Sun-Thu | 20:00 - 04:00
+2940,"2023-07-18",Asia/Manila,-8:00:00, MNL Sales 15: Tue-Sat | 20:00 - 04:00
+2940,"2023-07-19",Asia/Manila,-8:00:00, MNL Sales 15: Tue-Sat | 20:00 - 04:00
+2940,"2023-07-20",Asia/Manila,-8:00:00, MNL Sales 15: Tue-Sat | 20:00 - 04:00
+2942,"2023-07-18",Asia/Manila,-8:00:00, MNL Sales 15: Tue-Sat | 20:00 - 04:00
+2942,"2023-07-19",Asia/Manila,-8:00:00, MNL Sales 15: Tue-Sat | 20:00 - 04:00
+2942,"2023-07-20",Asia/Manila,-8:00:00, MNL Sales 15: Tue-Sat | 20:00 - 04:00
+2944,"2023-07-18",Asia/Manila,-8:00:00,MNL Sales 4: Tue-Sat | 06:00 - 14:00
+2944,"2023-07-19",Asia/Manila,-8:00:00,MNL Sales 4: Tue-Sat | 06:00 - 14:00
+2944,"2023-07-20",Asia/Manila,-8:00:00,MNL Sales 4: Tue-Sat | 06:00 - 14:00
+2945,"2023-07-18",Asia/Manila,-8:00:00,MNL Sales 9: Sun-Thu | 21:00 - 05:00
+2945,"2023-07-19",Asia/Manila,-8:00:00,MNL Sales 9: Sun-Thu | 21:00 - 05:00
+2945,"2023-07-20",Asia/Manila,-8:00:00,MNL Sales 9: Sun-Thu | 21:00 - 05:00
+2946,"2023-07-18",Asia/Manila,-8:00:00, MNL Sales 15: Tue-Sat | 20:00 - 04:00
+2946,"2023-07-19",Asia/Manila,-8:00:00, MNL Sales 15: Tue-Sat | 20:00 - 04:00
+2946,"2023-07-20",Asia/Manila,-8:00:00, MNL Sales 15: Tue-Sat | 20:00 - 04:00
+2948,"2023-07-18",Asia/Manila,-8:00:00,MNL Sales 13: Sun-Thu | 22:00 - 06:00
+2948,"2023-07-19",Asia/Manila,-8:00:00,MNL Sales 13: Sun-Thu | 22:00 - 06:00
+2948,"2023-07-20",Asia/Manila,-8:00:00,MNL Sales 13: Sun-Thu | 22:00 - 06:00
+2949,"2023-07-18",Asia/Manila,-8:00:00,MNL Sales 14: Tue-Sat | 22:00 - 06:00
+2949,"2023-07-19",Asia/Manila,-8:00:00,MNL Sales 14: Tue-Sat | 22:00 - 06:00
+2949,"2023-07-20",Asia/Manila,-8:00:00,MNL Sales 14: Tue-Sat | 22:00 - 06:00
+2950,"2023-07-20",Asia/Manila,-8:00:00,MNL Sales 8: Tue-Sat | 21:00 - 05:00
+2951,"2023-07-18",Asia/Manila,-8:00:00,MNL Sales 13: Sun-Thu | 22:00 - 06:00
+2951,"2023-07-19",Asia/Manila,-8:00:00,MNL Sales 13: Sun-Thu | 22:00 - 06:00
+2951,"2023-07-20",Asia/Manila,-8:00:00,MNL Sales 13: Sun-Thu | 22:00 - 06:00
+2952,"2023-07-18",Asia/Manila,-8:00:00,MNL Sales 4: Tue-Sat | 06:00 - 14:00
+2952,"2023-07-19",Asia/Manila,-8:00:00,MNL Sales 4: Tue-Sat | 06:00 - 14:00
+2952,"2023-07-20",Asia/Manila,-8:00:00,MNL Sales 4: Tue-Sat | 06:00 - 14:00
+2953,"2023-07-18",Asia/Kolkata,-5:30:00,Del Sales 10 Sun-Thu 7.30 PM
+2953,"2023-07-19",Asia/Kolkata,-5:30:00,Del Sales 10 Sun-Thu 7.30 PM
+2953,"2023-07-20",Asia/Kolkata,-5:30:00,Del Sales 10 Sun-Thu 7.30 PM
+2954,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 13 Sun - Thu 11:30 PM
+2954,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 13 Sun - Thu 11:30 PM
+2954,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 13 Sun - Thu 11:30 PM
+2955,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 7 Sun - Thu 04:30 PM 
+2955,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 7 Sun - Thu 04:30 PM 
+2955,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 7 Sun - Thu 04:30 PM 
+2956,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 12 Tue - Sat 09:30 PM
+2956,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 12 Tue - Sat 09:30 PM
+2956,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 12 Tue - Sat 09:30 PM
+2959,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 11 Sun - Thu 08:30 PM
+2959,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 11 Sun - Thu 08:30 PM
+2959,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 11 Sun - Thu 08:30 PM
+2960,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 3 Tue-Sat 2.30am
+2960,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 3 Tue-Sat 2.30am
+2960,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 3 Tue-Sat 2.30am
+2961,"2023-07-18",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Tue-Sat
+2961,"2023-07-19",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Tue-Sat
+2961,"2023-07-20",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Tue-Sat
+2962,"2023-07-18",Asia/Kolkata,-5:30:00,RivAgent_0230-1130IST Tue-Sat
+2962,"2023-07-19",Asia/Kolkata,-5:30:00,RivAgent_0230-1130IST Tue-Sat
+2962,"2023-07-20",Asia/Kolkata,-5:30:00,RivAgent_0230-1130IST Tue-Sat
+2963,"2023-07-18",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Tue-Sat
+2963,"2023-07-19",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Tue-Sat
+2963,"2023-07-20",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Tue-Sat
+2965,"2023-07-18",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Tue-Sat
+2965,"2023-07-19",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Tue-Sat
+2965,"2023-07-20",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Tue-Sat
+2966,"2023-07-18",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Mon-Fri
+2966,"2023-07-19",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Mon-Fri
+2966,"2023-07-20",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Mon-Fri
+2967,"2023-07-18",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Tue-Sat
+2967,"2023-07-19",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Tue-Sat
+2967,"2023-07-20",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Tue-Sat
+2968,"2023-07-18",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Tue-Sat
+2968,"2023-07-19",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Tue-Sat
+2968,"2023-07-20",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Tue-Sat
+2969,"2023-07-18",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Mon-Fri
+2969,"2023-07-19",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Mon-Fri
+2969,"2023-07-20",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Mon-Fri
+2976,"2023-07-18",Asia/Manila,-8:00:00, MNL Sales 15: Tue-Sat | 20:00 - 04:00
+2976,"2023-07-19",Asia/Manila,-8:00:00, MNL Sales 15: Tue-Sat | 20:00 - 04:00
+2976,"2023-07-20",Asia/Manila,-8:00:00, MNL Sales 15: Tue-Sat | 20:00 - 04:00
+2977,"2023-07-18",Asia/Manila,-8:00:00,MNL Sales 13: Sun-Thu | 22:00 - 06:00
+2977,"2023-07-19",Asia/Manila,-8:00:00,MNL Sales 13: Sun-Thu | 22:00 - 06:00
+2977,"2023-07-20",Asia/Manila,-8:00:00,MNL Sales 13: Sun-Thu | 22:00 - 06:00
+2978,"2023-07-18",Asia/Manila,-8:00:00,MNL Sales 12: Sun-Thu | 20:00 - 04:00
+2978,"2023-07-19",Asia/Manila,-8:00:00,MNL Sales 12: Sun-Thu | 20:00 - 04:00
+2978,"2023-07-20",Asia/Manila,-8:00:00,MNL Sales 12: Sun-Thu | 20:00 - 04:00
+2979,"2023-07-18",Asia/Manila,-8:00:00,MNL Sales 12: Sun-Thu | 20:00 - 04:00
+2979,"2023-07-19",Asia/Manila,-8:00:00,MNL Sales 12: Sun-Thu | 20:00 - 04:00
+2979,"2023-07-20",Asia/Manila,-8:00:00,MNL Sales 12: Sun-Thu | 20:00 - 04:00
+2980,"2023-07-18",Asia/Manila,-8:00:00,MNL Sales 9: Sun-Thu | 21:00 - 05:00
+2980,"2023-07-19",Asia/Manila,-8:00:00,MNL Sales 9: Sun-Thu | 21:00 - 05:00
+2980,"2023-07-20",Asia/Manila,-8:00:00,MNL Sales 9: Sun-Thu | 21:00 - 05:00
+2981,"2023-07-18",Asia/Manila,-8:00:00,MNL Sales 8: Tue-Sat | 21:00 - 05:00
+2981,"2023-07-19",Asia/Manila,-8:00:00,MNL Sales 8: Tue-Sat | 21:00 - 05:00
+2981,"2023-07-20",Asia/Manila,-8:00:00,MNL Sales 8: Tue-Sat | 21:00 - 05:00
+2982,"2023-07-18",Asia/Manila,-8:00:00,MNL Sales 18: Tue-Sat | 18:00 - 02:00
+2982,"2023-07-19",Asia/Manila,-8:00:00,MNL Sales 18: Tue-Sat | 18:00 - 02:00
+2982,"2023-07-20",Asia/Manila,-8:00:00,MNL Sales 18: Tue-Sat | 18:00 - 02:00
+2983,"2023-07-18",Asia/Manila,-8:00:00,MNL Sales 8: Tue-Sat | 21:00 - 05:00
+2983,"2023-07-19",Asia/Manila,-8:00:00,MNL Sales 8: Tue-Sat | 21:00 - 05:00
+2983,"2023-07-20",Asia/Manila,-8:00:00,MNL Sales 8: Tue-Sat | 21:00 - 05:00
+2984,"2023-07-18",Asia/Manila,-8:00:00, MNL Sales 15: Tue-Sat | 20:00 - 04:00
+2984,"2023-07-19",Asia/Manila,-8:00:00, MNL Sales 15: Tue-Sat | 20:00 - 04:00
+2984,"2023-07-20",Asia/Manila,-8:00:00, MNL Sales 15: Tue-Sat | 20:00 - 04:00
+2985,"2023-07-18",Asia/Manila,-8:00:00,MNL Sales 7: Sun-Thu | 06:00 - 14:00
+2985,"2023-07-19",Asia/Manila,-8:00:00,MNL Sales 7: Sun-Thu | 06:00 - 14:00
+2986,"2023-07-18",Asia/Manila,-8:00:00,MNL Sales 7: Sun-Thu | 06:00 - 14:00
+2986,"2023-07-19",Asia/Manila,-8:00:00,MNL Sales 7: Sun-Thu | 06:00 - 14:00
+2987,"2023-07-18",Asia/Manila,-8:00:00,MNL Sales 12: Sun-Thu | 20:00 - 04:00
+2987,"2023-07-19",Asia/Manila,-8:00:00,MNL Sales 12: Sun-Thu | 20:00 - 04:00
+2987,"2023-07-20",Asia/Manila,-8:00:00,MNL Sales 12: Sun-Thu | 20:00 - 04:00
+2988,"2023-07-18",Asia/Manila,-8:00:00,MNL Sales 9: Sun-Thu | 21:00 - 05:00
+2988,"2023-07-19",Asia/Manila,-8:00:00,MNL Sales 9: Sun-Thu | 21:00 - 05:00
+2988,"2023-07-20",Asia/Manila,-8:00:00,MNL Sales 9: Sun-Thu | 21:00 - 05:00
+2999,"2023-07-18",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Tue-Sat
+2999,"2023-07-19",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Tue-Sat
+2999,"2023-07-20",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Tue-Sat
+3000,"2023-07-18",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Mon-Fri
+3000,"2023-07-19",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Mon-Fri
+3000,"2023-07-20",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Mon-Fri
+3001,"2023-07-18",Asia/Kolkata,-5:30:00,RivAgent_0230-1130IST Tue-Sat
+3001,"2023-07-19",Asia/Kolkata,-5:30:00,RivAgent_0230-1130IST Tue-Sat
+3001,"2023-07-20",Asia/Kolkata,-5:30:00,RivAgent_0230-1130IST Tue-Sat
+3002,"2023-07-18",Asia/Kolkata,-5:30:00,RivAgent_0230-1130IST Tue-Sat
+3002,"2023-07-19",Asia/Kolkata,-5:30:00,RivAgent_0230-1130IST Tue-Sat
+3002,"2023-07-20",Asia/Kolkata,-5:30:00,RivAgent_0230-1130IST Tue-Sat
+3003,"2023-07-18",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Mon-Fri
+3003,"2023-07-19",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Mon-Fri
+3003,"2023-07-20",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Mon-Fri
+3004,"2023-07-18",Asia/Kolkata,-5:30:00,RivAgent_0230-1130IST Tue-Sat
+3004,"2023-07-19",Asia/Kolkata,-5:30:00,RivAgent_0230-1130IST Tue-Sat
+3004,"2023-07-20",Asia/Kolkata,-5:30:00,RivAgent_0230-1130IST Tue-Sat
+3005,"2023-07-18",Asia/Manila,-8:00:00,MNL Sales 4: Tue-Sat | 06:00 - 14:00
+3005,"2023-07-19",Asia/Manila,-8:00:00,MNL Sales 4: Tue-Sat | 06:00 - 14:00
+3005,"2023-07-20",Asia/Manila,-8:00:00,MNL Sales 4: Tue-Sat | 06:00 - 14:00
+3006,"2023-07-18",Asia/Manila,-8:00:00,MNL Sales 4: Tue-Sat | 06:00 - 14:00
+3006,"2023-07-19",Asia/Manila,-8:00:00,MNL Sales 4: Tue-Sat | 06:00 - 14:00
+3006,"2023-07-20",Asia/Manila,-8:00:00,MNL Sales 4: Tue-Sat | 06:00 - 14:00
+3007,"2023-07-18",Asia/Manila,-8:00:00,MNL Sales 1: Mon-Fri | 06:00 - 14:00
+3007,"2023-07-19",Asia/Manila,-8:00:00,MNL Sales 1: Mon-Fri | 06:00 - 14:00
+3007,"2023-07-20",Asia/Manila,-8:00:00,MNL Sales 1: Mon-Fri | 06:00 - 14:00
+3008,"2023-07-18",Asia/Manila,-8:00:00,MNL Sales 7: Sun-Thu | 06:00 - 14:00
+3008,"2023-07-19",Asia/Manila,-8:00:00,MNL Sales 7: Sun-Thu | 06:00 - 14:00
+3009,"2023-07-18",Asia/Manila,-8:00:00,MNL Sales 7: Sun-Thu | 06:00 - 14:00
+3009,"2023-07-19",Asia/Manila,-8:00:00,MNL Sales 7: Sun-Thu | 06:00 - 14:00
+3010,"2023-07-18",Asia/Manila,-8:00:00,MNL Sales 4: Tue-Sat | 06:00 - 14:00
+3010,"2023-07-19",Asia/Manila,-8:00:00,MNL Sales 4: Tue-Sat | 06:00 - 14:00
+3010,"2023-07-20",Asia/Manila,-8:00:00,MNL Sales 4: Tue-Sat | 06:00 - 14:00
+3012,"2023-07-18",Asia/Manila,-8:00:00,MNL Sales 7: Sun-Thu | 06:00 - 14:00
+3012,"2023-07-19",Asia/Manila,-8:00:00,MNL Sales 7: Sun-Thu | 06:00 - 14:00
+3013,"2023-07-18",Asia/Manila,-8:00:00,MNL Sales 9: Sun-Thu | 21:00 - 05:00
+3013,"2023-07-19",Asia/Manila,-8:00:00,MNL Sales 9: Sun-Thu | 21:00 - 05:00
+3013,"2023-07-20",Asia/Manila,-8:00:00,MNL Sales 9: Sun-Thu | 21:00 - 05:00
+3014,"2023-07-18",Asia/Manila,-8:00:00,MNL Sales 7: Sun-Thu | 06:00 - 14:00
+3014,"2023-07-19",Asia/Manila,-8:00:00,MNL Sales 7: Sun-Thu | 06:00 - 14:00
+3033,"2023-07-18",Asia/Kolkata,-5:30:00,NewRiv_2030-0530 Mon-Fri
+3033,"2023-07-19",Asia/Kolkata,-5:30:00,NewRiv_2030-0530 Mon-Fri
+3033,"2023-07-20",Asia/Kolkata,-5:30:00,NewRiv_2030-0530 Mon-Fri
+3036,"2023-07-18",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Mon-Fri
+3036,"2023-07-19",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Mon-Fri
+3036,"2023-07-20",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Mon-Fri
+3037,"2023-07-18",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Mon-Fri
+3037,"2023-07-19",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Mon-Fri
+3037,"2023-07-20",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Mon-Fri
+3038,"2023-07-18",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Mon-Fri
+3038,"2023-07-19",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Mon-Fri
+3038,"2023-07-20",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Mon-Fri
+3039,"2023-07-18",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Mon-Fri
+3039,"2023-07-19",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Mon-Fri
+3039,"2023-07-20",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Mon-Fri
+3040,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 12 Tue - Sat 09:30 PM
+3040,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 12 Tue - Sat 09:30 PM
+3040,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 12 Tue - Sat 09:30 PM
+3042,"2023-07-18",Asia/Kolkata,-5:30:00,Del Sales 10 Sun-Thu 7.30 PM
+3042,"2023-07-19",Asia/Kolkata,-5:30:00,Del Sales 10 Sun-Thu 7.30 PM
+3042,"2023-07-20",Asia/Kolkata,-5:30:00,Del Sales 10 Sun-Thu 7.30 PM
+3043,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 8 Tue - Sat 06:30 PM
+3043,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 8 Tue - Sat 06:30 PM
+3043,"2023-07-20",Asia/Kolkata,-5:30:00,DEL Sales 8 Tue - Sat 06:30 PM
+3045,"2023-07-18",Asia/Kolkata,-5:30:00,Del Sales 10 Sun-Thu 7.30 PM
+3045,"2023-07-19",Asia/Kolkata,-5:30:00,Del Sales 10 Sun-Thu 7.30 PM
+3045,"2023-07-20",Asia/Kolkata,-5:30:00,Del Sales 10 Sun-Thu 7.30 PM
+3047,"2023-07-18",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Mon-Fri
+3047,"2023-07-19",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Mon-Fri
+3047,"2023-07-20",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Mon-Fri
+3048,"2023-07-18",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Mon-Fri
+3048,"2023-07-19",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Mon-Fri
+3048,"2023-07-20",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Mon-Fri
+3049,"2023-07-18",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Mon-Fri
+3049,"2023-07-19",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Mon-Fri
+3049,"2023-07-20",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Mon-Fri
+3050,"2023-07-18",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Mon-Fri
+3050,"2023-07-19",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Mon-Fri
+3050,"2023-07-20",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Mon-Fri
+3051,"2023-07-18",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Mon-Fri
+3051,"2023-07-19",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Mon-Fri
+3051,"2023-07-20",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Mon-Fri
+3053,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 8 Tue - Sat 06:30 PM
+3058,"2023-07-18",Asia/Kolkata,-5:30:00,RivAgent_0230-1130IST Tue-Sat
+3058,"2023-07-19",Asia/Kolkata,-5:30:00,RivAgent_0230-1130IST Tue-Sat
+3058,"2023-07-20",Asia/Kolkata,-5:30:00,RivAgent_0230-1130IST Tue-Sat
+3060,"2023-07-18",Asia/Kolkata,-5:30:00,RivAgent_0230-1130IST Tue-Sat
+3060,"2023-07-19",Asia/Kolkata,-5:30:00,RivAgent_0230-1130IST Tue-Sat
+3060,"2023-07-20",Asia/Kolkata,-5:30:00,RivAgent_0230-1130IST Tue-Sat
+3061,"2023-07-18",Asia/Kolkata,-5:30:00,RivAgent_0230-1130IST Tue-Sat
+3061,"2023-07-19",Asia/Kolkata,-5:30:00,RivAgent_0230-1130IST Tue-Sat
+3061,"2023-07-20",Asia/Kolkata,-5:30:00,RivAgent_0230-1130IST Tue-Sat
+3062,"2023-07-18",Asia/Kolkata,-5:30:00,RivAgent_0230-1130IST Tue-Sat
+3062,"2023-07-19",Asia/Kolkata,-5:30:00,RivAgent_0230-1130IST Tue-Sat
+3062,"2023-07-20",Asia/Kolkata,-5:30:00,RivAgent_0230-1130IST Tue-Sat
+3063,"2023-07-18",Asia/Kolkata,-5:30:00,RivAgent_0230-1130IST Tue-Sat
+3063,"2023-07-19",Asia/Kolkata,-5:30:00,RivAgent_0230-1130IST Tue-Sat
+3063,"2023-07-20",Asia/Kolkata,-5:30:00,RivAgent_0230-1130IST Tue-Sat
+3064,"2023-07-18",Asia/Kolkata,-5:30:00,RivAgent_0230-1130IST Tue-Sat
+3064,"2023-07-19",Asia/Kolkata,-5:30:00,RivAgent_0230-1130IST Tue-Sat
+3064,"2023-07-20",Asia/Kolkata,-5:30:00,RivAgent_0230-1130IST Tue-Sat
+3072,"2023-07-18",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Mon-Fri
+3072,"2023-07-19",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Mon-Fri
+3072,"2023-07-20",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Mon-Fri
+3073,"2023-07-18",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Mon-Fri
+3073,"2023-07-19",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Mon-Fri
+3073,"2023-07-20",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Mon-Fri
+3074,"2023-07-18",Asia/Kolkata,-5:30:00,NewRiv_2359-0900
+3074,"2023-07-19",Asia/Kolkata,-5:30:00,NewRiv_2359-0900
+3074,"2023-07-20",Asia/Kolkata,-5:30:00,NewRiv_2359-0900
+3075,"2023-07-18",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Mon-Fri
+3075,"2023-07-19",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Mon-Fri
+3075,"2023-07-20",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Mon-Fri
+3076,"2023-07-18",Asia/Kolkata,-5:30:00,RivAgent_0230-1130IST Tue-Sat
+3076,"2023-07-19",Asia/Kolkata,-5:30:00,RivAgent_0230-1130IST Tue-Sat
+3076,"2023-07-20",Asia/Kolkata,-5:30:00,RivAgent_0230-1130IST Tue-Sat
+3077,"2023-07-18",Asia/Kolkata,-5:30:00,RivAgent_0230-1130IST Tue-Sat
+3077,"2023-07-19",Asia/Kolkata,-5:30:00,RivAgent_0230-1130IST Tue-Sat
+3077,"2023-07-20",Asia/Kolkata,-5:30:00,RivAgent_0230-1130IST Tue-Sat
+3078,"2023-07-18",Asia/Kolkata,-5:30:00,RivAgent_0230-1130IST Tue-Sat
+3078,"2023-07-19",Asia/Kolkata,-5:30:00,RivAgent_0230-1130IST Tue-Sat
+3078,"2023-07-20",Asia/Kolkata,-5:30:00,RivAgent_0230-1130IST Tue-Sat
+3080,"2023-07-18",Asia/Kolkata,-5:30:00,Del Sales 10 Sun-Thu 7.30 PM
+3080,"2023-07-19",Asia/Kolkata,-5:30:00,Del Sales 10 Sun-Thu 7.30 PM
+3080,"2023-07-20",Asia/Kolkata,-5:30:00,Del Sales 10 Sun-Thu 7.30 PM
+3081,"2023-07-18",Asia/Kolkata,-5:30:00,DEL Sales 2 Sun-Thu 1.30am
+3081,"2023-07-19",Asia/Kolkata,-5:30:00,DEL Sales 2 Sun-Thu 1.30am
+3082,"2023-07-18",Asia/Kolkata,-5:30:00,NewRiv_0030-0930
+3082,"2023-07-19",Asia/Kolkata,-5:30:00,NewRiv_0030-0930
+3082,"2023-07-20",Asia/Kolkata,-5:30:00,NewRiv_0030-0930
+3084,"2023-07-18",Asia/Kolkata,-5:30:00,NewRiv_2359-0900
+3084,"2023-07-19",Asia/Kolkata,-5:30:00,NewRiv_2359-0900
+3084,"2023-07-20",Asia/Kolkata,-5:30:00,NewRiv_2359-0900
+3085,"2023-07-18",Asia/Kolkata,-5:30:00,RivAgent_0230-1130IST Tue-Sat
+3085,"2023-07-19",Asia/Kolkata,-5:30:00,RivAgent_0230-1130IST Tue-Sat
+3085,"2023-07-20",Asia/Kolkata,-5:30:00,RivAgent_0230-1130IST Tue-Sat
+3086,"2023-07-18",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Mon-Fri
+3086,"2023-07-19",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Mon-Fri
+3086,"2023-07-20",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Mon-Fri
+3087,"2023-07-18",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Mon-Fri
+3087,"2023-07-19",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Mon-Fri
+3087,"2023-07-20",Asia/Kolkata,-5:30:00,NewRiv_2230-0730 Mon-Fri
+3088,"2023-07-18",Asia/Kolkata,-5:30:00,NewRiv_2359-0900
+3088,"2023-07-19",Asia/Kolkata,-5:30:00,NewRiv_2359-0900
+3088,"2023-07-20",Asia/Kolkata,-5:30:00,NewRiv_2359-0900
+3089,"2023-07-18",Asia/Kolkata,-5:30:00,NewRiv_2359-0900
+3089,"2023-07-19",Asia/Kolkata,-5:30:00,NewRiv_2359-0900
+3089,"2023-07-20",Asia/Kolkata,-5:30:00,NewRiv_2359-0900
+3092,"2023-07-18",Asia/Kolkata,-5:30:00,RivAgent_0230-1130IST Tue-Sat
+3092,"2023-07-19",Asia/Kolkata,-5:30:00,RivAgent_0230-1130IST Tue-Sat
+3092,"2023-07-20",Asia/Kolkata,-5:30:00,RivAgent_0230-1130IST Tue-Sat
