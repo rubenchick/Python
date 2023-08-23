@@ -25,11 +25,16 @@ files_on_server = sftp.listdir("")
 print(files_on_server)
 
 
-# files_on_server = sftp.listdir("/path/on/server/")
-# if "yourfile.csv" in files_on_server:
-#     print("Файл успешно загружен на сервер!")
-# else:
-#     print("Ошибка! Файл не найден на сервере.")
+# Загружаем файл с сервера
+remote_path = "agent_schedule.csv"
+local_path = "/Users/rubenchik/GDrive/Languages/Python/Kivork/Improve skills/Basic/agent_schedule.csv"
+sftp.get(remote_path, local_path)
+
+print(f"Файл {remote_path} успешно загружен в {local_path}")
+
+# Закрываем соединение
+sftp.close()
+transport.close()
 
 # Закрываем соединение
 sftp.close()
