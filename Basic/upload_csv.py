@@ -9,6 +9,7 @@ host = "eu-central-1.sftpcloud.io"
 username = "fc973e0102244f768b0235b6e89f5c13"
 password = "3ZUBX71RfV0mmXmenI52OjcWVxoJd2jZ"
 port = 22
+port2 = 55
 
 #######
 ### test connections
