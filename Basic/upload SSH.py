@@ -30,11 +30,11 @@ print(files_on_server)
 # print(files_on_server)
 
 # Загружаем файл с сервера
-remote_path = "agent_schedule_05102023.csv"
-local_path = "/Users/rubenchik/GDrive2/Languages/Python/Kivork/Improve skills/Basic/agent_schedule_05102023.csv"
-sftp.get(remote_path, local_path)
-
-print(f"Файл {remote_path} успешно загружен в {local_path}")
+# remote_path = "agent_schedule_05102023.csv"
+# local_path = "/Users/rubenchik/GDrive2/Languages/Python/Kivork/Improve skills/Basic/agent_schedule_05102023.csv"
+# sftp.get(remote_path, local_path)
+#
+# print(f"Файл {remote_path} успешно загружен в {local_path}")
 
 # # Закрываем соединение
 sftp.close()
