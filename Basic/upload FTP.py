@@ -1,9 +1,9 @@
 from ftplib import FTP
 
 # FTP server details
-FTP_HOST = "xxx"
-FTP_USER = "xxx"
-FTP_PASS = "xxx"
+FTP_HOST = ""
+FTP_USER = ""
+FTP_PASS = ""
 directory_name = "ruby"
 # Connect to the FTP server
 ftp = FTP(FTP_HOST, FTP_USER, FTP_PASS)
@@ -33,16 +33,16 @@ ftp.dir()
 # print(f'{remote_filename} has been downloaded and saved as {local_filename} in the local directory.')
 #
 # # Define the filename to be uploaded and the path to the local file
-local_file_to_upload = '/Users/rubenchik/GDrive2/Languages/Python/Kivork/Improve skills/Basic/df.py'
-remote_filename = 'df.py'
+# local_file_to_upload = '/Users/rubenchik/GDrive2/Languages/Python/Kivork/Improve skills/Basic/df.py'
+# remote_filename = 'df.py'
+# #
+# #
+# # Upload a file
+# with open(local_file_to_upload, 'rb') as file_to_upload:
+#     ftp.storbinary(f'STOR {remote_filename}', file_to_upload)
 #
-#
-# Upload a file
-with open(local_file_to_upload, 'rb') as file_to_upload:
-    ftp.storbinary(f'STOR {remote_filename}', file_to_upload)
-
-print(f'{local_file_to_upload} has been uploaded as {remote_filename} to the FTP server.')
-print(ftp.dir())
+# print(f'{local_file_to_upload} has been uploaded as {remote_filename} to the FTP server.')
+# print(ftp.dir())
 
 # The name of the file you want to create
 # filename = "example.txt"
@@ -64,6 +64,19 @@ print(ftp.dir())
 #
 # except Exception as e:
 #     print(f"An error occurred: {e}")
+
+
+# Change to the desired directory
+ftp.cwd('')
+
+# Define the remote file name and local file name
+remote_filename = 'agent_schedule_15112023.csv'
+local_filename = 'agent_schedule_15112023.csv'
+
+# Download the file
+with open(local_filename, 'wb') as file:
+    ftp.retrbinary(f'RETR {remote_filename}', file.write)
+
 
 
 # Close the FTP connection
